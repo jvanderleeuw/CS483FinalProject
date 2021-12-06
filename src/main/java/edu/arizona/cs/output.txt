@@ -1,0 +1,4400 @@
+
+Query is: the dominant paper in we nation 's capital , it be among the top +10 +U.S. papers in circulation
+Doc is: Star Tribune
+Score is: 40.215416
+
+Doc is: Star Tribune
+Score is: 40.215416
+
+Doc is: Houston Chronicle
+Score is: 37.811394
+
+Doc is: Houston Chronicle
+Score is: 37.811394
+
+Doc is: Nedjeljni Jutarnji
+Score is: 37.1587
+
+Doc is: Nedjeljni Jutarnji
+Score is: 37.1587
+
+Doc is: The Atlanta Journal-Constitution
+Score is: 35.124958
+
+Doc is: The Atlanta Journal-Constitution
+Score is: 35.124958
+
+Doc is: Hearst Corporation
+Score is: 33.788494
+
+Doc is: Hearst Corporation
+Score is: 33.788494
+
+Doc is: Texas A&M Health Science Center School of Public Health
+Score is: 33.625767
+
+Doc is: Texas A&M Health Science Center School of Public Health
+Score is: 33.625767
+
+Doc is: Currency
+Score is: 33.258022
+
+Doc is: Currency
+Score is: 33.258022
+
+Doc is: Mexican peso
+Score is: 33.124863
+
+Doc is: Mexican peso
+Score is: 33.124863
+
+Doc is: Illinois Wesleyan University
+Score is: 32.809975
+
+Doc is: Illinois Wesleyan University
+Score is: 32.809975
+
+Doc is: Americanization
+Score is: 32.556007
+
+Doc is: Americanization
+Score is: 32.556007
+
+Incorrect; line was: The Washington Post and result was: Star Tribune
+
+Query is: the practice of pre\-authorizing presidential use of force date to a +1955 resolution re \: this island near mainland +China
+Doc is: Kinmen
+Score is: 41.23209
+
+Doc is: Kinmen
+Score is: 41.23209
+
+Doc is: Taiwan
+Score is: 38.800232
+
+Doc is: Taiwan
+Score is: 38.800232
+
+Doc is: United Nations General Assembly Resolution 505
+Score is: 37.8074
+
+Doc is: United Nations General Assembly Resolution 505
+Score is: 37.8074
+
+Doc is: Taiwan Relations Act
+Score is: 37.35804
+
+Doc is: Taiwan Relations Act
+Score is: 37.35804
+
+Doc is: History of the Republic of China
+Score is: 35.88331
+
+Doc is: History of the Republic of China
+Score is: 35.88331
+
+Doc is: China–United States relations
+Score is: 35.72303
+
+Doc is: China–United States relations
+Score is: 35.72303
+
+Doc is: Demographics of China
+Score is: 35.475258
+
+Doc is: Demographics of China
+Score is: 35.475258
+
+Doc is: Treaty of San Francisco
+Score is: 32.19217
+
+Doc is: Treaty of San Francisco
+Score is: 32.19217
+
+Doc is: Renminbi
+Score is: 31.733131
+
+Doc is: Renminbi
+Score is: 31.733131
+
+Doc is: People's Liberation Army
+Score is: 31.558193
+
+Doc is: People's Liberation Army
+Score is: 31.558193
+
+Incorrect; line was: Taiwan and result was: Kinmen
+
+Query is: +Daniel +Hertzberg \& +James +B. +Stewart of this paper share a +1988 +Pulitzer for they story about insider trading
+Doc is: The Wall Street Journal
+Score is: 44.94876
+
+Doc is: The Wall Street Journal
+Score is: 44.94876
+Match: The Wall Street Journal
+
+Query is: song that say , \" you make +I smile with my heart ; you look be laughable , unphotographable \"
+Doc is: Smile from the Streets You Hold
+Score is: 52.70285
+
+Doc is: Smile from the Streets You Hold
+Score is: 52.70285
+
+Doc is: A Few Questions
+Score is: 52.58642
+
+Doc is: A Few Questions
+Score is: 52.58642
+
+Doc is: Live, Laugh, Love
+Score is: 51.93714
+
+Doc is: Live, Laugh, Love
+Score is: 51.93714
+
+Doc is: Je ne parle pas français
+Score is: 51.65331
+
+Doc is: Je ne parle pas français
+Score is: 51.65331
+
+Doc is: Say No More (Clay Walker album)
+Score is: 51.427
+
+Doc is: Say No More (Clay Walker album)
+Score is: 51.427
+
+Doc is: A Brisk Young Sailor Courted Me
+Score is: 51.291653
+
+Doc is: A Brisk Young Sailor Courted Me
+Score is: 51.291653
+
+Doc is: Keyshia Cole
+Score is: 51.267097
+
+Doc is: Keyshia Cole
+Score is: 51.267097
+
+Doc is: Everyman (play)
+Score is: 50.526024
+
+Doc is: Everyman (play)
+Score is: 50.526024
+
+Doc is: Mildred Bailey
+Score is: 50.397297
+
+Doc is: Mildred Bailey
+Score is: 50.397297
+
+Doc is: Yao Shouzhong
+Score is: 50.120625
+
+Doc is: Yao Shouzhong
+Score is: 50.120625
+
+Incorrect; line was: My Funny Valentine and result was: Smile from the Streets You Hold
+
+Query is: in +2011 bell ringer for this charity start accept digital donation to its red kettle
+Doc is: The Salvation Army
+Score is: 41.34828
+
+Doc is: The Salvation Army
+Score is: 41.34828
+
+Doc is: Change ringing
+Score is: 41.252186
+
+Doc is: Change ringing
+Score is: 41.252186
+
+Doc is: Donation
+Score is: 30.602253
+
+Doc is: Donation
+Score is: 30.602253
+
+Doc is: Pró-Vida
+Score is: 30.58415
+
+Doc is: Pró-Vida
+Score is: 30.58415
+
+Doc is: New York Stock Exchange
+Score is: 29.013443
+
+Doc is: New York Stock Exchange
+Score is: 29.013443
+
+Doc is: GiveWell
+Score is: 28.94837
+
+Doc is: GiveWell
+Score is: 28.94837
+
+Doc is: Operation Kids
+Score is: 28.746916
+
+Doc is: Operation Kids
+Score is: 28.746916
+
+Doc is: Goodwill Industries
+Score is: 28.69207
+
+Doc is: Goodwill Industries
+Score is: 28.69207
+
+Doc is: KQEH
+Score is: 28.116669
+
+Doc is: KQEH
+Score is: 28.116669
+
+Doc is: Hwangbo
+Score is: 27.033474
+
+Doc is: Hwangbo
+Score is: 27.033474
+Match: The Salvation Army
+
+Query is: the +Naples +Museum of +Art
+Doc is: Jen Stark
+Score is: 24.893646
+
+Doc is: Jen Stark
+Score is: 24.893646
+
+Doc is: Konrad Grob
+Score is: 23.396875
+
+Doc is: Konrad Grob
+Score is: 23.396875
+
+Doc is: Jan Brueghel the Elder
+Score is: 17.413519
+
+Doc is: Jan Brueghel the Elder
+Score is: 17.413519
+
+Doc is: Antonello da Messina
+Score is: 17.163673
+
+Doc is: Antonello da Messina
+Score is: 17.163673
+
+Doc is: Federico da Montefeltro
+Score is: 16.040682
+
+Doc is: Federico da Montefeltro
+Score is: 16.040682
+
+Doc is: Edgar Degas
+Score is: 15.198523
+
+Doc is: Edgar Degas
+Score is: 15.198523
+
+Doc is: Nativity scene
+Score is: 14.337659
+
+Doc is: Nativity scene
+Score is: 14.337659
+
+Doc is: Art Nouveau
+Score is: 14.017607
+
+Doc is: Art Nouveau
+Score is: 14.017607
+
+Doc is: Leavitt Hunt
+Score is: 12.373287
+
+Doc is: Leavitt Hunt
+Score is: 12.373287
+
+Doc is: Álvaro Siza Vieira
+Score is: 12.241232
+
+Doc is: Álvaro Siza Vieira
+Score is: 12.241232
+
+Incorrect; line was: Florida and result was: Jen Stark
+
+Query is: this italian painter depict the \" adoration of the +Golden +Calf \"
+Doc is: Tintoretto
+Score is: 31.987965
+
+Doc is: Tintoretto
+Score is: 31.987965
+
+Doc is: Nicolas Poussin
+Score is: 30.472532
+
+Doc is: Nicolas Poussin
+Score is: 30.472532
+
+Doc is: Michiel Borstlap
+Score is: 29.009209
+
+Doc is: Michiel Borstlap
+Score is: 29.009209
+
+Doc is: Tachanun
+Score is: 24.63256
+
+Doc is: Tachanun
+Score is: 24.63256
+
+Doc is: Rutger Hauer
+Score is: 24.21666
+
+Doc is: Rutger Hauer
+Score is: 24.21666
+
+Doc is: Paul Verhoeven
+Score is: 23.993032
+
+Doc is: Paul Verhoeven
+Score is: 23.993032
+
+Doc is: Pidyon haben
+Score is: 22.169392
+
+Doc is: Pidyon haben
+Score is: 22.169392
+
+Doc is: Steve Coogan
+Score is: 20.547752
+
+Doc is: Steve Coogan
+Score is: 20.547752
+
+Doc is: Jeroboam
+Score is: 20.496014
+
+Doc is: Jeroboam
+Score is: 20.496014
+
+Doc is: Dinah
+Score is: 18.5766
+
+Doc is: Dinah
+Score is: 18.5766
+Match: Tintoretto
+
+Query is: this woman who win consecutive heptathlon at the +Olympics go to +UCLA on a basketball scholarship
+Doc is: Jackie Joyner-Kersee
+Score is: 56.147026
+
+Doc is: Jackie Joyner-Kersee
+Score is: 56.147026
+
+Doc is: Michigan Wolverines
+Score is: 38.048622
+
+Doc is: Michigan Wolverines
+Score is: 38.048622
+
+Doc is: George Stanich
+Score is: 37.817818
+
+Doc is: George Stanich
+Score is: 37.817818
+
+Doc is: Dawn Harper
+Score is: 36.617683
+
+Doc is: Dawn Harper
+Score is: 36.617683
+
+Doc is: Jennie Finch
+Score is: 36.51098
+
+Doc is: Jennie Finch
+Score is: 36.51098
+
+Doc is: Kareem Abdul-Jabbar
+Score is: 35.597244
+
+Doc is: Kareem Abdul-Jabbar
+Score is: 35.597244
+
+Doc is: Kevin Love
+Score is: 35.203568
+
+Doc is: Kevin Love
+Score is: 35.203568
+
+Doc is: Cy Young (athlete)
+Score is: 34.769287
+
+Doc is: Cy Young (athlete)
+Score is: 34.769287
+
+Doc is: University of California, Los Angeles
+Score is: 34.1604
+
+Doc is: University of California, Los Angeles
+Score is: 34.1604
+
+Doc is: Bob Knight
+Score is: 33.667343
+
+Doc is: Bob Knight
+Score is: 33.667343
+Match: Jackie Joyner-Kersee
+
+Query is: originally this club 's emblem be a wagon wheel ; now it be a gearwheel with +24 cog \& +6 spoke
+Doc is: Penny-farthing
+Score is: 42.061073
+
+Doc is: Penny-farthing
+Score is: 42.061073
+
+Doc is: Chevrolet Impala
+Score is: 40.009857
+
+Doc is: Chevrolet Impala
+Score is: 40.009857
+
+Doc is: LNWR 2-2-2 3020 Cornwall
+Score is: 39.973503
+
+Doc is: LNWR 2-2-2 3020 Cornwall
+Score is: 39.973503
+
+Doc is: Shiremark Mill, Capel
+Score is: 37.61655
+
+Doc is: Shiremark Mill, Capel
+Score is: 37.61655
+
+Doc is: Chrysler New Yorker
+Score is: 36.6383
+
+Doc is: Chrysler New Yorker
+Score is: 36.6383
+
+Doc is: Pontiac
+Score is: 36.150078
+
+Doc is: Pontiac
+Score is: 36.150078
+
+Doc is: Thomas Stevens (cyclist)
+Score is: 35.6057
+
+Doc is: Thomas Stevens (cyclist)
+Score is: 35.6057
+
+Doc is: Land Rover
+Score is: 35.019684
+
+Doc is: Land Rover
+Score is: 35.019684
+
+Doc is: 24 cm Kanone M. 16
+Score is: 34.926426
+
+Doc is: 24 cm Kanone M. 16
+Score is: 34.926426
+
+Doc is: Traction engine
+Score is: 34.848778
+
+Doc is: Traction engine
+Score is: 34.848778
+
+Incorrect; line was: Rotary International and result was: Penny-farthing
+
+Query is: several bridge , include +El +Tahrir , cross the +Nile in this capital
+Doc is: Cairo
+Score is: 33.81243
+
+Doc is: Cairo
+Score is: 33.81243
+
+Doc is: History of Egypt
+Score is: 20.08121
+
+Doc is: History of Egypt
+Score is: 20.08121
+Match: Cairo
+
+Query is: after the fall of +France in +1940 , this general tell he country , \" +France have lose a battle .
+Doc is: Philippe Pétain
+Score is: 50.126778
+
+Doc is: Philippe Pétain
+Score is: 50.126778
+
+Doc is: Free French Forces
+Score is: 49.179813
+
+Doc is: Free French Forces
+Score is: 49.179813
+
+Doc is: Anglo-French Supreme War Council
+Score is: 47.64599
+
+Doc is: Anglo-French Supreme War Council
+Score is: 47.64599
+
+Doc is: Stanisław Maczek
+Score is: 46.45201
+
+Doc is: Stanisław Maczek
+Score is: 46.45201
+
+Doc is: Polish contribution to World War II
+Score is: 46.249718
+
+Doc is: Polish contribution to World War II
+Score is: 46.249718
+
+Doc is: Hubert Lyautey
+Score is: 46.158485
+
+Doc is: Hubert Lyautey
+Score is: 46.158485
+
+Doc is: Battle of Britain
+Score is: 45.836227
+
+Doc is: Battle of Britain
+Score is: 45.836227
+
+Doc is: Charles Péguy
+Score is: 45.51921
+
+Doc is: Charles Péguy
+Score is: 45.51921
+
+Doc is: Polish mine detector
+Score is: 45.079983
+
+Doc is: Polish mine detector
+Score is: 45.079983
+
+Doc is: Italian Empire
+Score is: 44.895767
+
+Doc is: Italian Empire
+Score is: 44.895767
+
+Query is: after the fall of +France in +1940 , this general tell he country , \" +France have lose a battle . but +France have not lose the war \"
+Doc is: Philippe Pétain
+Score is: 71.43807
+
+Doc is: Philippe Pétain
+Score is: 71.43807
+
+Doc is: Free French Forces
+Score is: 69.899605
+
+Doc is: Free French Forces
+Score is: 69.899605
+
+Doc is: Anglo-French Supreme War Council
+Score is: 69.44847
+
+Doc is: Anglo-French Supreme War Council
+Score is: 69.44847
+
+Doc is: Polish contribution to World War II
+Score is: 68.75447
+
+Doc is: Polish contribution to World War II
+Score is: 68.75447
+
+Doc is: History of France
+Score is: 66.68045
+
+Doc is: History of France
+Score is: 66.68045
+
+Doc is: Charles de Gaulle
+Score is: 66.210815
+
+Doc is: Charles de Gaulle
+Score is: 66.210815
+
+Doc is: Georges Clemenceau
+Score is: 66.117645
+
+Doc is: Georges Clemenceau
+Score is: 66.117645
+
+Doc is: Hubert Lyautey
+Score is: 65.95601
+
+Doc is: Hubert Lyautey
+Score is: 65.95601
+
+Doc is: Polish mine detector
+Score is: 65.37295
+
+Doc is: Polish mine detector
+Score is: 65.37295
+
+Doc is: Munich Agreement
+Score is: 65.219864
+
+Doc is: Munich Agreement
+Score is: 65.219864
+
+Incorrect; line was: Charles de Gaulle|de Gaulle and result was: Philippe Pétain
+
+Query is: the +Taft +Museum of +Art
+Doc is: Lytle Tunnel
+Score is: 20.703537
+
+Doc is: Lytle Tunnel
+Score is: 20.703537
+
+Doc is: Anders Zorn
+Score is: 17.627052
+
+Doc is: Anders Zorn
+Score is: 17.627052
+
+Doc is: Sculpture of the United States
+Score is: 17.210236
+
+Doc is: Sculpture of the United States
+Score is: 17.210236
+
+Doc is: Museum of Science and Industry (Chicago)
+Score is: 16.084463
+
+Doc is: Museum of Science and Industry (Chicago)
+Score is: 16.084463
+
+Doc is: Campus of the University of Illinois at Urbana–Champaign
+Score is: 15.222881
+
+Doc is: Campus of the University of Illinois at Urbana–Champaign
+Score is: 15.222881
+
+Doc is: Dendrochronology
+Score is: 11.563002
+
+Doc is: Dendrochronology
+Score is: 11.563002
+
+Doc is: Cooper Union
+Score is: 11.058663
+
+Doc is: Cooper Union
+Score is: 11.058663
+
+Doc is: White House
+Score is: 8.763787
+
+Doc is: White House
+Score is: 8.763787
+
+Doc is: Photojournalism
+Score is: 8.42301
+
+Doc is: Photojournalism
+Score is: 8.42301
+
+Doc is: Yale University
+Score is: 8.321349
+
+Doc is: Yale University
+Score is: 8.321349
+
+Incorrect; line was: Ohio and result was: Lytle Tunnel
+
+Query is: the mast from the +USS +Maine be part of the memorial to the ship \& crew at this national cemetery
+Doc is: USS Grenadier (SS-210)
+Score is: 46.960434
+
+Doc is: USS Grenadier (SS-210)
+Score is: 46.960434
+
+Doc is: USS Sabine (1855)
+Score is: 45.49216
+
+Doc is: USS Sabine (1855)
+Score is: 45.49216
+
+Doc is: Jamestown (ship)
+Score is: 44.200867
+
+Doc is: Jamestown (ship)
+Score is: 44.200867
+
+Doc is: George Henry Preble
+Score is: 42.567547
+
+Doc is: George Henry Preble
+Score is: 42.567547
+
+Doc is: USS Dallas (SSN-700)
+Score is: 42.430023
+
+Doc is: USS Dallas (SSN-700)
+Score is: 42.430023
+
+Doc is: USS John F. Kennedy (CV-67)
+Score is: 42.173367
+
+Doc is: USS John F. Kennedy (CV-67)
+Score is: 42.173367
+
+Doc is: USS Pike (SS-173)
+Score is: 41.654663
+
+Doc is: USS Pike (SS-173)
+Score is: 41.654663
+
+Doc is: USS Minnesota (1855)
+Score is: 41.350517
+
+Doc is: USS Minnesota (1855)
+Score is: 41.350517
+
+Doc is: USS Constitution
+Score is: 41.225582
+
+Doc is: USS Constitution
+Score is: 41.225582
+
+Doc is: USS Stephen W. Groves (FFG-29)
+Score is: 41.207787
+
+Doc is: USS Stephen W. Groves (FFG-29)
+Score is: 41.207787
+
+Incorrect; line was: Arlington National Cemetery|Arlington Cemetery and result was: USS Grenadier (SS-210)
+
+Query is: in +2009 \: +Joker on film
+Doc is: Mark Hamill
+Score is: 24.645252
+
+Doc is: Mark Hamill
+Score is: 24.645252
+
+Doc is: The Dark Knight (soundtrack)
+Score is: 22.114182
+
+Doc is: The Dark Knight (soundtrack)
+Score is: 22.114182
+
+Doc is: Dark Carnival (Insane Clown Posse)
+Score is: 20.58318
+
+Doc is: Dark Carnival (Insane Clown Posse)
+Score is: 20.58318
+
+Doc is: Riddle Box
+Score is: 20.470629
+
+Doc is: Riddle Box
+Score is: 20.470629
+
+Doc is: Hell's Pit
+Score is: 19.736433
+
+Doc is: Hell's Pit
+Score is: 19.736433
+
+Doc is: Ringmaster (album)
+Score is: 18.567196
+
+Doc is: Ringmaster (album)
+Score is: 18.567196
+
+Doc is: Arkham Asylum
+Score is: 17.975157
+
+Doc is: Arkham Asylum
+Score is: 17.975157
+
+Doc is: Heath Ledger
+Score is: 17.389503
+
+Doc is: Heath Ledger
+Score is: 17.389503
+
+Doc is: Carnival of Carnage
+Score is: 17.225315
+
+Doc is: Carnival of Carnage
+Score is: 17.225315
+
+Doc is: John Conner (American football)
+Score is: 16.948503
+
+Doc is: John Conner (American football)
+Score is: 16.948503
+
+Incorrect; line was: Heath Ledger and result was: Mark Hamill
+
+Query is: it be the peninsula fight over in the peninsular war of +1808 to +1814
+Doc is: Vicente Genaro de Quesada
+Score is: 35.136505
+
+Doc is: Vicente Genaro de Quesada
+Score is: 35.136505
+
+Doc is: Prince Wilhelm of Prussia (1783–1851)
+Score is: 31.97135
+
+Doc is: Prince Wilhelm of Prussia (1783–1851)
+Score is: 31.97135
+
+Doc is: Napoleonic Wars
+Score is: 31.892563
+
+Doc is: Napoleonic Wars
+Score is: 31.892563
+
+Doc is: 1810s
+Score is: 31.68731
+
+Doc is: 1810s
+Score is: 31.68731
+
+Doc is: The New Monthly Magazine
+Score is: 31.556976
+
+Doc is: The New Monthly Magazine
+Score is: 31.556976
+
+Doc is: History of Spain
+Score is: 31.344986
+
+Doc is: History of Spain
+Score is: 31.344986
+
+Doc is: Godfrey Macdonald, 3rd Baron Macdonald of Slate
+Score is: 30.934446
+
+Doc is: Godfrey Macdonald, 3rd Baron Macdonald of Slate
+Score is: 30.934446
+
+Doc is: Jacob Hufty
+Score is: 30.442856
+
+Doc is: Jacob Hufty
+Score is: 30.442856
+
+Doc is: François-Xavier Donzelot
+Score is: 29.14083
+
+Doc is: François-Xavier Donzelot
+Score is: 29.14083
+
+Doc is: Pierre Augereau
+Score is: 28.875937
+
+Doc is: Pierre Augereau
+Score is: 28.875937
+
+Incorrect; line was: Iberia|Iberian Peninsula and result was: Vicente Genaro de Quesada
+
+Query is: in +1980 +China found a center for these cute creature in its bamboo \- rich +Wolong +Nature preserve
+Doc is: Chengdu
+Score is: 31.939892
+
+Doc is: Chengdu
+Score is: 31.939892
+
+Incorrect; line was: Panda|Giant panda and result was: Chengdu
+
+Query is: +1988 \: \" +Father figure \"
+Doc is: Vermeer Quartet
+Score is: 18.48514
+
+Doc is: Vermeer Quartet
+Score is: 18.48514
+
+Doc is: Oneness Pentecostalism
+Score is: 18.034344
+
+Doc is: Oneness Pentecostalism
+Score is: 18.034344
+
+Doc is: Junípero Serra
+Score is: 17.967451
+
+Doc is: Junípero Serra
+Score is: 17.967451
+
+Doc is: Kim Ho Jik
+Score is: 17.547052
+
+Doc is: Kim Ho Jik
+Score is: 17.547052
+
+Doc is: Nontrinitarianism
+Score is: 16.88077
+
+Doc is: Nontrinitarianism
+Score is: 16.88077
+
+Doc is: Cathedral of St. Eunan and St. Columba
+Score is: 16.570786
+
+Doc is: Cathedral of St. Eunan and St. Columba
+Score is: 16.570786
+
+Doc is: Marsyas
+Score is: 16.289972
+
+Doc is: Marsyas
+Score is: 16.289972
+
+Doc is: Moscow Ballet (United States)
+Score is: 16.133812
+
+Doc is: Moscow Ballet (United States)
+Score is: 16.133812
+
+Doc is: Jesus in Christianity
+Score is: 15.9388485
+
+Doc is: Jesus in Christianity
+Score is: 15.9388485
+
+Doc is: Immaculate Conception Church (Amenia, New York)
+Score is: 15.918095
+
+Doc is: Immaculate Conception Church (Amenia, New York)
+Score is: 15.918095
+
+Incorrect; line was: George Michael and result was: Vermeer Quartet
+
+Query is: in a essay defend this +2011 film , +Myrlie +Evers \- +Williams say , \" my mother be \" this film \" \& so be she mother \"
+Doc is: Medgar Evers
+Score is: 69.730316
+
+Doc is: Medgar Evers
+Score is: 69.730316
+
+Doc is: University of Mississippi
+Score is: 38.89851
+
+Doc is: University of Mississippi
+Score is: 38.89851
+
+Incorrect; line was: The Help and result was: Medgar Evers
+
+Query is: +Father +Michael +McGivney found this fraternal society for catholic layman in +1882
+Doc is: Knights of Columbus
+Score is: 42.431625
+
+Doc is: Knights of Columbus
+Score is: 42.431625
+Match: Knights of Columbus
+
+Query is: early project of the +WWF , this organization , include work with the bald eagle \& the red wolf
+Doc is: Gray wolf
+Score is: 34.609547
+
+Doc is: Gray wolf
+Score is: 34.609547
+
+Doc is: Lahore Zoo
+Score is: 34.389133
+
+Doc is: Lahore Zoo
+Score is: 34.389133
+
+Doc is: Great Baikal Trail
+Score is: 32.548615
+
+Doc is: Great Baikal Trail
+Score is: 32.548615
+
+Doc is: Steve Lombardi
+Score is: 32.32647
+
+Doc is: Steve Lombardi
+Score is: 32.32647
+
+Doc is: Royal Rumble (1993)
+Score is: 32.266533
+
+Doc is: Royal Rumble (1993)
+Score is: 32.266533
+
+Doc is: WWE
+Score is: 32.236137
+
+Doc is: WWE
+Score is: 32.236137
+
+Doc is: Royal Rumble (1994)
+Score is: 31.54987
+
+Doc is: Royal Rumble (1994)
+Score is: 31.54987
+
+Doc is: Kratié (town)
+Score is: 31.374487
+
+Doc is: Kratié (town)
+Score is: 31.374487
+
+Doc is: Wolf attacks on humans
+Score is: 31.283829
+
+Doc is: Wolf attacks on humans
+Score is: 31.283829
+
+Doc is: Royal Rumble (1997)
+Score is: 30.872673
+
+Doc is: Royal Rumble (1997)
+Score is: 30.872673
+
+Incorrect; line was: World Wide Fund|World Wide Fund for Nature and result was: Gray wolf
+
+Query is: +Indonesia 's largest lizard , it be protect from poacher , though we wish it could breathe fire to do the job itself
+Doc is: Komodo dragon
+Score is: 37.40677
+
+Doc is: Komodo dragon
+Score is: 37.40677
+
+Doc is: Garuda
+Score is: 34.59117
+
+Doc is: Garuda
+Score is: 34.59117
+
+Doc is: Lizard
+Score is: 34.555008
+
+Doc is: Lizard
+Score is: 34.555008
+
+Doc is: Dunia Tanpa Koma
+Score is: 34.053856
+
+Doc is: Dunia Tanpa Koma
+Score is: 34.053856
+
+Doc is: Indonesian National Revolution
+Score is: 34.040962
+
+Doc is: Indonesian National Revolution
+Score is: 34.040962
+
+Doc is: Haggagovic
+Score is: 33.827026
+
+Doc is: Haggagovic
+Score is: 33.827026
+
+Doc is: Far East Air Force (Royal Air Force)
+Score is: 32.974144
+
+Doc is: Far East Air Force (Royal Air Force)
+Score is: 32.974144
+
+Doc is: Ambon, Maluku
+Score is: 32.910255
+
+Doc is: Ambon, Maluku
+Score is: 32.910255
+
+Doc is: Wehea Forest
+Score is: 32.437653
+
+Doc is: Wehea Forest
+Score is: 32.437653
+
+Doc is: Chagos Marine Protected Area
+Score is: 32.34553
+
+Doc is: Chagos Marine Protected Area
+Score is: 32.34553
+Match: Komodo dragon
+
+Query is: +Nov. +28 , +1929 \!
+Doc is: Louis Armstrong
+Score is: 6.8728204
+
+Doc is: Louis Armstrong
+Score is: 6.8728204
+
+Doc is: James V of Scotland
+Score is: 6.821775
+
+Doc is: James V of Scotland
+Score is: 6.821775
+
+Doc is: George Jeffreys, 1st Baron Jeffreys
+Score is: 6.642618
+
+Doc is: George Jeffreys, 1st Baron Jeffreys
+Score is: 6.642618
+
+Doc is: Color television
+Score is: 6.6312075
+
+Doc is: Color television
+Score is: 6.6312075
+
+Doc is: Motion Picture Association of America
+Score is: 6.147917
+
+Doc is: Motion Picture Association of America
+Score is: 6.147917
+
+Doc is: Irish literature
+Score is: 5.8598957
+
+Doc is: Irish literature
+Score is: 5.8598957
+
+Doc is: Orlando, Florida
+Score is: 5.166575
+
+Doc is: Orlando, Florida
+Score is: 5.166575
+
+Doc is: William S. Burroughs
+Score is: 4.6020584
+
+Doc is: William S. Burroughs
+Score is: 4.6020584
+
+Doc is: Ferdinand I of Romania
+Score is: 4.581534
+
+Doc is: Ferdinand I of Romania
+Score is: 4.581534
+
+Doc is: Hebron
+Score is: 4.5242825
+
+Doc is: Hebron
+Score is: 4.5242825
+
+Query is: +Nov. +28 , +1929 \! this man \& he chief pilot +Bernt +Balchen fly to +South +Pole \!
+Query is: +Nov. +28 , +1929 \! this man \& he chief pilot +Bernt +Balchen fly to +South +Pole \! +Yowza \!
+Query is: +Nov. +28 , +1929 \! this man \& he chief pilot +Bernt +Balchen fly to +South +Pole \! +Yowza \! you will be a admirable admiral , sir \!
+Incorrect; line was: Richard Byrd|Richard E. Byrd and result was: Louis Armstrong
+
+Query is: on +May +5 , +1878 +Alice +Chambers be the last person bury in this +Dodge +City , +Kansas cemetery
+Incorrect; line was: Boot Hill and result was: 
+
+Query is: the +Royal +Palace grounds feature a statue of +King +Norodom , who in the late +1800 be compel to first put he country under the control of this european power ; of course , it be sculpt in that country
+Doc is: Crown jewels
+Score is: 62.306725
+
+Doc is: Crown jewels
+Score is: 62.306725
+
+Doc is: Napoleon III
+Score is: 58.300255
+
+Doc is: Napoleon III
+Score is: 58.300255
+
+Doc is: Ho Chi Minh City
+Score is: 43.700058
+
+Doc is: Ho Chi Minh City
+Score is: 43.700058
+
+Incorrect; line was: France and result was: Crown jewels
+
+Query is: in the +400s +B.C. this chinese philosopher go into exile for +12 year
+Incorrect; line was: Confucius and result was: 
+
+Query is: +Bessie +Coleman , the first black woman license as a pilot , land a street name in she honor at this +Chicago airport
+Doc is: Bessie Coleman
+Score is: 80.67181
+
+Doc is: Bessie Coleman
+Score is: 80.67181
+
+Doc is: Ida Cox
+Score is: 44.438152
+
+Doc is: Ida Cox
+Score is: 44.438152
+
+Doc is: Lambert–St. Louis International Airport
+Score is: 40.438347
+
+Doc is: Lambert–St. Louis International Airport
+Score is: 40.438347
+
+Doc is: O'Hare International Airport
+Score is: 38.958218
+
+Doc is: O'Hare International Airport
+Score is: 38.958218
+
+Doc is: Louis Armstrong
+Score is: 35.407604
+
+Doc is: Louis Armstrong
+Score is: 35.407604
+
+Doc is: Fletcher Henderson
+Score is: 34.92895
+
+Doc is: Fletcher Henderson
+Score is: 34.92895
+
+Doc is: Berry Gordy
+Score is: 34.70323
+
+Doc is: Berry Gordy
+Score is: 34.70323
+
+Doc is: Happy Birthday to You
+Score is: 30.17441
+
+Doc is: Happy Birthday to You
+Score is: 30.17441
+
+Incorrect; line was: O'Hare|O'Hare International Airport and result was: Ida Cox
+
+Query is: the +Ammonites hold sway in this +Mideast country in the +1200 +B.C. \& the capital be name for they
+Incorrect; line was: Jordan and result was: 
+
+Query is: \" the +Sum of all fear \" ; he also win a screenwrit +Oscar for \" good +Will +Hunting \"
+Doc is: Ben Affleck
+Score is: 39.3536
+
+Doc is: Ben Affleck
+Score is: 39.3536
+Match: Ben Affleck
+
+Query is: one of the +N.Y. +Times ' headline on this landmark +1973 +Supreme +Court decision be \" +Cardinals shocked \"
+Incorrect; line was: Roe v. Wade and result was: 
+
+Query is: +France 's +Philip +IV \-\- know as \" the +Fair \" \-\- have +Jacques +De +Molay , the last +Grand +Master of this order , burn in +1314
+Doc is: Knights Templar
+Score is: 72.74397
+
+Doc is: Knights Templar
+Score is: 72.74397
+
+Doc is: Paris
+Score is: 36.367157
+
+Doc is: Paris
+Score is: 36.367157
+Match: Knights Templar
+
+Query is: the +Georgia +O'Keeffe +Museum
+Doc is: Dan Budnik
+Score is: 26.757732
+
+Doc is: Dan Budnik
+Score is: 26.757732
+
+Doc is: Alfred Stieglitz
+Score is: 20.843697
+
+Doc is: Alfred Stieglitz
+Score is: 20.843697
+
+Doc is: Yousuf Karsh
+Score is: 13.046999
+
+Doc is: Yousuf Karsh
+Score is: 13.046999
+
+Doc is: Ernest Thompson Seton
+Score is: 11.2352295
+
+Doc is: Ernest Thompson Seton
+Score is: 11.2352295
+
+Doc is: Museum of Modern Art
+Score is: 10.8702965
+
+Doc is: Museum of Modern Art
+Score is: 10.8702965
+
+Doc is: Edward Hopper
+Score is: 8.375987
+
+Doc is: Edward Hopper
+Score is: 8.375987
+
+Doc is: Phillips Academy
+Score is: 6.807813
+
+Doc is: Phillips Academy
+Score is: 6.807813
+
+Doc is: Century 21 Exposition
+Score is: 6.5159583
+
+Doc is: Century 21 Exposition
+Score is: 6.5159583
+
+Doc is: History of painting
+Score is: 5.74192
+
+Doc is: History of painting
+Score is: 5.74192
+
+Doc is: University of Virginia
+Score is: 4.3251605
+
+Doc is: University of Virginia
+Score is: 4.3251605
+
+Incorrect; line was: New Mexico and result was: Dan Budnik
+
+Query is: the name of this largest moroccan city combine +2 spanish word
+Doc is: Perejil Island
+Score is: 30.368635
+
+Doc is: Perejil Island
+Score is: 30.368635
+
+Doc is: Extremadura
+Score is: 27.645363
+
+Doc is: Extremadura
+Score is: 27.645363
+
+Doc is: Leo Africanus
+Score is: 27.158703
+
+Doc is: Leo Africanus
+Score is: 27.158703
+
+Doc is: History of Western Sahara
+Score is: 27.109661
+
+Doc is: History of Western Sahara
+Score is: 27.109661
+
+Doc is: Tétouan
+Score is: 26.732273
+
+Doc is: Tétouan
+Score is: 26.732273
+
+Doc is: Melilla
+Score is: 26.422173
+
+Doc is: Melilla
+Score is: 26.422173
+
+Doc is: Western Sahara
+Score is: 26.366026
+
+Doc is: Western Sahara
+Score is: 26.366026
+
+Doc is: Casablanca
+Score is: 25.881931
+
+Doc is: Casablanca
+Score is: 25.881931
+
+Doc is: Oran
+Score is: 25.68736
+
+Doc is: Oran
+Score is: 25.68736
+
+Doc is: Londrina
+Score is: 24.55829
+
+Doc is: Londrina
+Score is: 24.55829
+
+Incorrect; line was: Casablanca and result was: Perejil Island
+
+Query is: +Jell \- +O
+Doc is: Jell-O
+Score is: 34.469154
+
+Doc is: Jell-O
+Score is: 34.469154
+
+Doc is: Jello mold
+Score is: 27.806425
+
+Doc is: Jello mold
+Score is: 27.806425
+
+Doc is: Valery Ortiz
+Score is: 18.330595
+
+Doc is: Valery Ortiz
+Score is: 18.330595
+
+Doc is: Arch West
+Score is: 13.417886
+
+Doc is: Arch West
+Score is: 13.417886
+
+Doc is: Lunchables
+Score is: 13.372707
+
+Doc is: Lunchables
+Score is: 13.372707
+
+Doc is: Don Wilson (announcer)
+Score is: 13.34392
+
+Doc is: Don Wilson (announcer)
+Score is: 13.34392
+
+Doc is: Cold Stone Creamery
+Score is: 12.471508
+
+Doc is: Cold Stone Creamery
+Score is: 12.471508
+
+Doc is: 3rd Rock from the Sun
+Score is: 9.599064
+
+Doc is: 3rd Rock from the Sun
+Score is: 9.599064
+
+Doc is: Baseball card
+Score is: 9.514889
+
+Doc is: Baseball card
+Score is: 9.514889
+
+Doc is: Colloid
+Score is: 6.636425
+
+Doc is: Colloid
+Score is: 6.636425
+
+Incorrect; line was: Kraft Foods and result was: Jell-O
+
+Query is: +2011 \: +Chicago mayor +Tom +Kane
+Doc is: Citizen Kane
+Score is: 18.964344
+
+Doc is: Citizen Kane
+Score is: 18.964344
+
+Doc is: Roger Ebert
+Score is: 15.717354
+
+Doc is: Roger Ebert
+Score is: 15.717354
+
+Doc is: Chicago
+Score is: 15.123695
+
+Doc is: Chicago
+Score is: 15.123695
+
+Doc is: WABC-TV
+Score is: 12.304997
+
+Doc is: WABC-TV
+Score is: 12.304997
+
+Doc is: Chicago Cubs
+Score is: 11.237379
+
+Doc is: Chicago Cubs
+Score is: 11.237379
+
+Doc is: Steven Spielberg
+Score is: 9.406098
+
+Doc is: Steven Spielberg
+Score is: 9.406098
+
+Doc is: RuPaul
+Score is: 8.944907
+
+Doc is: RuPaul
+Score is: 8.944907
+
+Doc is: Glen Campbell
+Score is: 8.228471
+
+Doc is: Glen Campbell
+Score is: 8.228471
+
+Doc is: Dontrelle Willis
+Score is: 7.7984533
+
+Doc is: Dontrelle Willis
+Score is: 7.7984533
+
+Doc is: Hee Haw
+Score is: 7.258374
+
+Doc is: Hee Haw
+Score is: 7.258374
+
+Incorrect; line was: Kelsey Grammer and result was: Citizen Kane
+
+Query is: title residence of +Otter , +Flounder , +Pinto \& +Bluto in a +1978 comedy
+Doc is: Animal House
+Score is: 56.243443
+
+Doc is: Animal House
+Score is: 56.243443
+Match: Animal House
+
+Query is: neurobiologist +Amy +Farrah +Fowler on \" the +Big +Bang +Theory \" , in real life she have a ph.d. in neuroscience from +UCLA
+Doc is: Mayim Bialik
+Score is: 89.16087
+
+Doc is: Mayim Bialik
+Score is: 89.16087
+Match: Mayim Bialik
+
+Query is: in \" the +Deadlocked +Election of +1800 \" , +James +R. +Sharp outline the fall of this duel vice president
+Incorrect; line was: Aaron Burr and result was: 
+
+Query is: he serve in the +KGB before become president \& then prime minister of +Russia
+Doc is: Politics of Russia
+Score is: 37.804363
+
+Doc is: Politics of Russia
+Score is: 37.804363
+
+Doc is: Active measures
+Score is: 35.31518
+
+Doc is: Active measures
+Score is: 35.31518
+
+Doc is: Rajiv Gandhi
+Score is: 34.382843
+
+Doc is: Rajiv Gandhi
+Score is: 34.382843
+
+Doc is: First Chief Directorate
+Score is: 32.5252
+
+Doc is: First Chief Directorate
+Score is: 32.5252
+
+Doc is: Yuri Andropov
+Score is: 31.22424
+
+Doc is: Yuri Andropov
+Score is: 31.22424
+
+Doc is: Vladimir Putin
+Score is: 30.125996
+
+Doc is: Vladimir Putin
+Score is: 30.125996
+
+Doc is: Boris Berezovsky (businessman)
+Score is: 29.012335
+
+Doc is: Boris Berezovsky (businessman)
+Score is: 29.012335
+
+Doc is: Mitrokhin Archive
+Score is: 28.667387
+
+Doc is: Mitrokhin Archive
+Score is: 28.667387
+
+Doc is: Vladimir Alganov
+Score is: 28.2504
+
+Doc is: Vladimir Alganov
+Score is: 28.2504
+
+Doc is: George Kisevalter
+Score is: 28.216015
+
+Doc is: George Kisevalter
+Score is: 28.216015
+
+Incorrect; line was: Vladimir Putin|Putin and result was: Politics of Russia
+
+Query is: when ask to describe herself , she say first \& foremost , she be +Malia \& +Sasha 's mom
+Doc is: Michelle Obama
+Score is: 42.08193
+
+Doc is: Michelle Obama
+Score is: 42.08193
+Match: Michelle Obama
+
+Query is: she write , \" my candle burn at both end ... but , ah , my foe , and oh , my friend \-\- it give a lovely light \"
+Doc is: Je ne parle pas français
+Score is: 66.43503
+
+Doc is: Je ne parle pas français
+Score is: 66.43503
+
+Doc is: Betty Thatcher
+Score is: 66.27755
+
+Doc is: Betty Thatcher
+Score is: 66.27755
+
+Doc is: Joan Sims
+Score is: 63.435184
+
+Doc is: Joan Sims
+Score is: 63.435184
+
+Doc is: Ellie Darcey-Alden
+Score is: 63.07241
+
+Doc is: Ellie Darcey-Alden
+Score is: 63.07241
+
+Doc is: Sonnet 126
+Score is: 62.685963
+
+Doc is: Sonnet 126
+Score is: 62.685963
+
+Doc is: Dora Carrington
+Score is: 62.01841
+
+Doc is: Dora Carrington
+Score is: 62.01841
+
+Doc is: Thomas Hood
+Score is: 61.272263
+
+Doc is: Thomas Hood
+Score is: 61.272263
+
+Doc is: A Brisk Young Sailor Courted Me
+Score is: 60.39223
+
+Doc is: A Brisk Young Sailor Courted Me
+Score is: 60.39223
+
+Doc is: Madama Butterfly
+Score is: 60.326904
+
+Doc is: Madama Butterfly
+Score is: 60.326904
+
+Doc is: Ernani
+Score is: 60.308174
+
+Doc is: Ernani
+Score is: 60.308174
+
+Incorrect; line was: Edna St. Vincent Millay and result was: Je ne parle pas français
+
+Query is: in this finnish city , the +Lutheran +Cathedral , also know as +Tuomiokirkko
+Incorrect; line was: Helsinki and result was: 
+
+Query is: +Milton +Bradley game
+Doc is: Microvision
+Score is: 25.792618
+
+Doc is: Microvision
+Score is: 25.792618
+
+Doc is: Axis & Allies
+Score is: 25.287605
+
+Doc is: Axis & Allies
+Score is: 25.287605
+
+Doc is: Battleship (game)
+Score is: 24.314081
+
+Doc is: Battleship (game)
+Score is: 24.314081
+
+Doc is: Vectrex
+Score is: 22.8974
+
+Doc is: Vectrex
+Score is: 22.8974
+
+Doc is: Snakes and Ladders
+Score is: 20.272823
+
+Doc is: Snakes and Ladders
+Score is: 20.272823
+
+Doc is: Hasbro
+Score is: 15.819788
+
+Doc is: Hasbro
+Score is: 15.819788
+
+Doc is: Snake (video game)
+Score is: 15.07334
+
+Doc is: Snake (video game)
+Score is: 15.07334
+
+Doc is: Magnavox Odyssey
+Score is: 14.529797
+
+Doc is: Magnavox Odyssey
+Score is: 14.529797
+
+Doc is: Save the Lies
+Score is: 11.923317
+
+Doc is: Save the Lies
+Score is: 11.923317
+
+Doc is: Handheld game console
+Score is: 11.765909
+
+Doc is: Handheld game console
+Score is: 11.765909
+
+Incorrect; line was: Hasbro and result was: Microvision
+
+Query is: the +Kentucky \& +Virginia resolution be pass to protest these controversial +1798 act of +Congress
+Doc is: Kentucky and Virginia Resolutions
+Score is: 62.795868
+
+Doc is: Kentucky and Virginia Resolutions
+Score is: 62.795868
+
+Doc is: Patrick Henry
+Score is: 29.87122
+
+Doc is: Patrick Henry
+Score is: 29.87122
+
+Doc is: Frankfort, Kentucky
+Score is: 29.627544
+
+Doc is: Frankfort, Kentucky
+Score is: 29.627544
+
+Doc is: Governor of Kentucky
+Score is: 28.980572
+
+Doc is: Governor of Kentucky
+Score is: 28.980572
+
+Doc is: Indiana Territory
+Score is: 26.284538
+
+Doc is: Indiana Territory
+Score is: 26.284538
+
+Doc is: Hartford Convention
+Score is: 25.812574
+
+Doc is: Hartford Convention
+Score is: 25.812574
+
+Doc is: George Mathews (Georgia)
+Score is: 24.589745
+
+Doc is: George Mathews (Georgia)
+Score is: 24.589745
+
+Doc is: Slavery in the United States
+Score is: 22.890993
+
+Doc is: Slavery in the United States
+Score is: 22.890993
+
+Doc is: Albert Gallatin
+Score is: 22.354877
+
+Doc is: Albert Gallatin
+Score is: 22.354877
+
+Doc is: Stephen F. Austin
+Score is: 22.11303
+
+Doc is: Stephen F. Austin
+Score is: 22.11303
+
+Incorrect; line was: The Alien and Sedition Acts and result was: Kentucky and Virginia Resolutions
+
+Query is: +1983 \: \" beat it \"
+Doc is: Loser Gone Wild
+Score is: 21.6633
+
+Doc is: Loser Gone Wild
+Score is: 21.6633
+
+Doc is: Change the World (Bone Thugs-n-Harmony song)
+Score is: 19.055704
+
+Doc is: Change the World (Bone Thugs-n-Harmony song)
+Score is: 19.055704
+
+Doc is: Crispix
+Score is: 19.024143
+
+Doc is: Crispix
+Score is: 19.024143
+
+Doc is: Rhythm
+Score is: 18.777582
+
+Doc is: Rhythm
+Score is: 18.777582
+
+Doc is: K-Rob
+Score is: 18.708406
+
+Doc is: K-Rob
+Score is: 18.708406
+
+Doc is: Beat Happening
+Score is: 18.64363
+
+Doc is: Beat Happening
+Score is: 18.64363
+
+Doc is: 1983 BDO World Darts Championship
+Score is: 18.580381
+
+Doc is: 1983 BDO World Darts Championship
+Score is: 18.580381
+
+Doc is: Barry Lee Fairchild
+Score is: 18.506104
+
+Doc is: Barry Lee Fairchild
+Score is: 18.506104
+
+Doc is: Blast beat
+Score is: 18.185625
+
+Doc is: Blast beat
+Score is: 18.185625
+
+Doc is: The Look (band)
+Score is: 17.965178
+
+Doc is: The Look (band)
+Score is: 17.965178
+
+Incorrect; line was: Michael Jackson and result was: Loser Gone Wild
+
+Query is: in +2009 \: +Sookie +Stackhouse
+Doc is: True Blood
+Score is: 27.962704
+
+Doc is: True Blood
+Score is: 27.962704
+
+Doc is: Anna Paquin
+Score is: 18.15768
+
+Doc is: Anna Paquin
+Score is: 18.15768
+
+Incorrect; line was: Anna Paquin and result was: True Blood
+
+Query is: this member of the +Nixon \& +Ford cabinet be bear in +Furth , +Germany in +1923
+Doc is: Henry Kissinger
+Score is: 31.71593
+
+Doc is: Henry Kissinger
+Score is: 31.71593
+Match: Henry Kissinger
+
+Query is: the high +Kirk of +St. +Giles , where +John +Knox be minister
+Doc is: John Knox
+Score is: 38.237526
+
+Doc is: John Knox
+Score is: 38.237526
+
+Doc is: Scottish Episcopal Church
+Score is: 24.236176
+
+Doc is: Scottish Episcopal Church
+Score is: 24.236176
+
+Doc is: History of Scotland
+Score is: 16.962234
+
+Doc is: History of Scotland
+Score is: 16.962234
+
+Doc is: Edinburgh
+Score is: 13.320154
+
+Doc is: Edinburgh
+Score is: 13.320154
+
+Incorrect; line was: Edinburgh and result was: Scottish Episcopal Church
+
+Query is: for the brief time he attend , he be a rebel with a cause , even land a lead role in a +1950 stage production
+Doc is: Richard Simmons (actor)
+Score is: 49.813095
+
+Doc is: Richard Simmons (actor)
+Score is: 49.813095
+
+Doc is: Richard Thomas (actor)
+Score is: 49.2996
+
+Doc is: Richard Thomas (actor)
+Score is: 49.2996
+
+Doc is: Leo McKern
+Score is: 48.61369
+
+Doc is: Leo McKern
+Score is: 48.61369
+
+Doc is: Herbert Beerbohm Tree
+Score is: 47.52415
+
+Doc is: Herbert Beerbohm Tree
+Score is: 47.52415
+
+Doc is: Rebel Without a Cause
+Score is: 47.249187
+
+Doc is: Rebel Without a Cause
+Score is: 47.249187
+
+Doc is: Joseph Cotten
+Score is: 46.875477
+
+Doc is: Joseph Cotten
+Score is: 46.875477
+
+Doc is: Damn Yankees
+Score is: 46.661922
+
+Doc is: Damn Yankees
+Score is: 46.661922
+
+Doc is: Ian Bannen
+Score is: 46.55614
+
+Doc is: Ian Bannen
+Score is: 46.55614
+
+Doc is: Henry Fonda
+Score is: 46.266235
+
+Doc is: Henry Fonda
+Score is: 46.266235
+
+Doc is: James Dean
+Score is: 46.19406
+
+Doc is: James Dean
+Score is: 46.19406
+
+Incorrect; line was: James Dean and result was: Richard Simmons (actor)
+
+Query is: +Fisher \- +Price toy
+Doc is: Little People
+Score is: 32.63781
+
+Doc is: Little People
+Score is: 32.63781
+
+Doc is: Toy Town Museum
+Score is: 32.051834
+
+Doc is: Toy Town Museum
+Score is: 32.051834
+
+Doc is: Buzzy Bee
+Score is: 27.925375
+
+Doc is: Buzzy Bee
+Score is: 27.925375
+
+Doc is: Jean-Pierre Abbat
+Score is: 23.456707
+
+Doc is: Jean-Pierre Abbat
+Score is: 23.456707
+
+Doc is: Mattel
+Score is: 21.78478
+
+Doc is: Mattel
+Score is: 21.78478
+
+Doc is: Fisher's fundamental theorem of natural selection
+Score is: 20.317148
+
+Doc is: Fisher's fundamental theorem of natural selection
+Score is: 20.317148
+
+Doc is: Hasbro
+Score is: 15.968423
+
+Doc is: Hasbro
+Score is: 15.968423
+
+Doc is: HyperScan
+Score is: 15.957012
+
+Doc is: HyperScan
+Score is: 15.957012
+
+Doc is: Zollie Steakley
+Score is: 13.849432
+
+Doc is: Zollie Steakley
+Score is: 13.849432
+
+Doc is: Super Friends
+Score is: 9.215197
+
+Doc is: Super Friends
+Score is: 9.215197
+
+Incorrect; line was: Mattel and result was: Little People
+
+Query is: in a +1959 american kitchen exhibit in +Moscow , he tell +Khrushchev , \" in +America , we like to make life easier for woman \"
+Doc is: Cuban missile crisis
+Score is: 51.626583
+
+Doc is: Cuban missile crisis
+Score is: 51.626583
+
+Doc is: Morris Childs
+Score is: 46.00865
+
+Doc is: Morris Childs
+Score is: 46.00865
+
+Doc is: History of the People's Republic of China (1949–76)
+Score is: 44.893494
+
+Doc is: History of the People's Republic of China (1949–76)
+Score is: 44.893494
+
+Doc is: Georgy Zhukov
+Score is: 43.891743
+
+Doc is: Georgy Zhukov
+Score is: 43.891743
+
+Doc is: History of North Korea
+Score is: 43.725872
+
+Doc is: History of North Korea
+Score is: 43.725872
+
+Doc is: Harlem Globetrotters
+Score is: 43.389935
+
+Doc is: Harlem Globetrotters
+Score is: 43.389935
+
+Doc is: History of the United States (1945–64)
+Score is: 42.679825
+
+Doc is: History of the United States (1945–64)
+Score is: 42.679825
+
+Doc is: Dolores Ibárruri
+Score is: 42.44505
+
+Doc is: Dolores Ibárruri
+Score is: 42.44505
+
+Doc is: Konrad Adenauer
+Score is: 41.50684
+
+Doc is: Konrad Adenauer
+Score is: 41.50684
+
+Doc is: Suez Crisis
+Score is: 39.65173
+
+Doc is: Suez Crisis
+Score is: 39.65173
+
+Incorrect; line was: Richard Nixon|Nixon and result was: Cuban missile crisis
+
+Query is: one of he \" tale of a +Wayside +Inn \" begin , \" listen , my child , and you shall hear of the midnight ride of +Paul +Revere \"
+Incorrect; line was: Henry Wadsworth Longfellow and result was: 
+
+Query is: this bestseller about problem on the +McCain \- +Palin ticket become a +HBO movie with +Julianne +Moore
+Doc is: Game Change
+Score is: 46.76001
+
+Doc is: Game Change
+Score is: 46.76001
+Match: Game Change
+
+Query is: a +2 \- part episode of \" +JAG \" introduce this +Mark +Harmon drama
+Doc is: List of NCIS characters
+Score is: 27.608582
+
+Doc is: List of NCIS characters
+Score is: 27.608582
+
+Incorrect; line was: NCIS and result was: List of NCIS characters
+
+Query is: this port be the southernmost of +South +Africa 's +3 capital
+Doc is: Economy of Namibia
+Score is: 26.864016
+
+Doc is: Economy of Namibia
+Score is: 26.864016
+
+Doc is: Bloemfontein
+Score is: 26.605322
+
+Doc is: Bloemfontein
+Score is: 26.605322
+
+Doc is: Aden
+Score is: 25.843779
+
+Doc is: Aden
+Score is: 25.843779
+
+Doc is: USNS Lt. James E. Robinson (T-AK-274)
+Score is: 25.62444
+
+Doc is: USNS Lt. James E. Robinson (T-AK-274)
+Score is: 25.62444
+
+Doc is: Transport in Lesotho
+Score is: 25.535263
+
+Doc is: Transport in Lesotho
+Score is: 25.535263
+
+Doc is: Dakar
+Score is: 24.965199
+
+Doc is: Dakar
+Score is: 24.965199
+
+Doc is: Portuguese Mozambique
+Score is: 24.80716
+
+Doc is: Portuguese Mozambique
+Score is: 24.80716
+
+Doc is: Coat of arms of Stellaland
+Score is: 24.474442
+
+Doc is: Coat of arms of Stellaland
+Score is: 24.474442
+
+Doc is: Beira Railroad Corporation
+Score is: 24.286633
+
+Doc is: Beira Railroad Corporation
+Score is: 24.286633
+
+Doc is: John Frost (SAAF officer)
+Score is: 24.025934
+
+Doc is: John Frost (SAAF officer)
+Score is: 24.025934
+
+Incorrect; line was: Cape Town and result was: Economy of Namibia
+
+Query is: +Keats be quote this +Edmund +Spenser poem when he tell +Shelley to \" ' load every rift ' of you subject with ore \"
+Doc is: Ode
+Score is: 62.597504
+
+Doc is: Ode
+Score is: 62.597504
+
+Doc is: English poetry
+Score is: 45.308426
+
+Doc is: English poetry
+Score is: 45.308426
+
+Doc is: John Milton
+Score is: 38.808464
+
+Doc is: John Milton
+Score is: 38.808464
+
+Doc is: Poetry
+Score is: 28.453732
+
+Doc is: Poetry
+Score is: 28.453732
+
+Doc is: England
+Score is: 21.126265
+
+Doc is: England
+Score is: 21.126265
+
+Incorrect; line was: The Faerie Queene and result was: Ode
+
+Query is: in a +1819 letter +Keats write that this lord \& poet \" cut a figure , but he be not figurative \"
+Doc is: John Keats
+Score is: 64.27907
+
+Doc is: John Keats
+Score is: 64.27907
+
+Doc is: La Belle Dame sans Merci
+Score is: 57.150955
+
+Doc is: La Belle Dame sans Merci
+Score is: 57.150955
+
+Doc is: Hyperion (poem)
+Score is: 53.203934
+
+Doc is: Hyperion (poem)
+Score is: 53.203934
+
+Doc is: Ode
+Score is: 45.37273
+
+Doc is: Ode
+Score is: 45.37273
+
+Doc is: Ozymandias
+Score is: 40.259457
+
+Doc is: Ozymandias
+Score is: 40.259457
+
+Doc is: Romanticism
+Score is: 39.866837
+
+Doc is: Romanticism
+Score is: 39.866837
+
+Doc is: Robin Hood
+Score is: 39.342827
+
+Doc is: Robin Hood
+Score is: 39.342827
+
+Doc is: John Ruskin
+Score is: 38.072346
+
+Doc is: John Ruskin
+Score is: 38.072346
+
+Doc is: English novel
+Score is: 37.125168
+
+Doc is: English novel
+Score is: 37.125168
+
+Doc is: Arts and Crafts movement
+Score is: 31.862494
+
+Doc is: Arts and Crafts movement
+Score is: 31.862494
+
+Incorrect; line was: Lord Byron and result was: John Keats
+
+Query is: this clear greek liqueur be quite potent , so it be usually mix with water , which turn it white \& cloudy
+Doc is: Ouzo
+Score is: 57.320576
+
+Doc is: Ouzo
+Score is: 57.320576
+
+Doc is: Liqueur
+Score is: 54.568813
+
+Doc is: Liqueur
+Score is: 54.568813
+
+Doc is: List of coffee beverages
+Score is: 43.611423
+
+Doc is: List of coffee beverages
+Score is: 43.611423
+
+Doc is: Anise
+Score is: 42.888077
+
+Doc is: Anise
+Score is: 42.888077
+
+Doc is: Bánh hỏi
+Score is: 41.202736
+
+Doc is: Bánh hỏi
+Score is: 41.202736
+
+Doc is: Buckskin (leather)
+Score is: 40.33272
+
+Doc is: Buckskin (leather)
+Score is: 40.33272
+
+Doc is: Old Fashioned
+Score is: 40.177334
+
+Doc is: Old Fashioned
+Score is: 40.177334
+
+Doc is: Ocean turbidity
+Score is: 40.028778
+
+Doc is: Ocean turbidity
+Score is: 40.028778
+
+Doc is: Rakı
+Score is: 40.025566
+
+Doc is: Rakı
+Score is: 40.025566
+
+Doc is: Azurite
+Score is: 39.973354
+
+Doc is: Azurite
+Score is: 39.973354
+Match: Ouzo
+
+Query is: +Feb. +1 , +National +Freedom +Day , be the date in +1865 when a resolution send the state a amendment end this
+Incorrect; line was: Slavery|Slavery in the United States and result was: 
+
+Query is: this person be the queen 's representative in +Canada ; currently the office be hold by +David +Johnston
+Doc is: Governor General of Canada
+Score is: 45.562134
+
+Doc is: Governor General of Canada
+Score is: 45.562134
+
+Doc is: Order of Military Merit (Canada)
+Score is: 37.858757
+
+Doc is: Order of Military Merit (Canada)
+Score is: 37.858757
+
+Doc is: Parliament of Canada
+Score is: 37.102394
+
+Doc is: Parliament of Canada
+Score is: 37.102394
+
+Doc is: 100 Huntley Street
+Score is: 33.789673
+
+Doc is: 100 Huntley Street
+Score is: 33.789673
+
+Doc is: Lincoln Alexander
+Score is: 32.634796
+
+Doc is: Lincoln Alexander
+Score is: 32.634796
+
+Doc is: Atlantic Canada's 100 Greatest Books
+Score is: 32.0476
+
+Doc is: Atlantic Canada's 100 Greatest Books
+Score is: 32.0476
+
+Doc is: Brian Mulroney
+Score is: 30.753094
+
+Doc is: Brian Mulroney
+Score is: 30.753094
+
+Doc is: Strait of Juan de Fuca
+Score is: 29.206577
+
+Doc is: Strait of Juan de Fuca
+Score is: 29.206577
+
+Doc is: Bob Rae
+Score is: 28.79217
+
+Doc is: Bob Rae
+Score is: 28.79217
+
+Doc is: Kildare Dobbs
+Score is: 28.67379
+
+Doc is: Kildare Dobbs
+Score is: 28.67379
+Match: Governor General of Canada
+
+Query is: he earn the \" fifth +Beatle \" nickname by produce all of the +Beatles ' album
+Doc is: Fifth Beatle
+Score is: 60.280586
+
+Doc is: Fifth Beatle
+Score is: 60.280586
+
+Doc is: George Martin
+Score is: 45.450222
+
+Doc is: George Martin
+Score is: 45.450222
+
+Doc is: Please Please Me
+Score is: 44.80246
+
+Doc is: Please Please Me
+Score is: 44.80246
+
+Doc is: Sour Milk Sea
+Score is: 43.80968
+
+Doc is: Sour Milk Sea
+Score is: 43.80968
+
+Doc is: Rubber Soul
+Score is: 41.783737
+
+Doc is: Rubber Soul
+Score is: 41.783737
+
+Doc is: The Beatles (album)
+Score is: 41.236965
+
+Doc is: The Beatles (album)
+Score is: 41.236965
+
+Doc is: Ringo Starr
+Score is: 40.800243
+
+Doc is: Ringo Starr
+Score is: 40.800243
+
+Doc is: Beatles for Sale
+Score is: 40.50952
+
+Doc is: Beatles for Sale
+Score is: 40.50952
+
+Doc is: Golden Earring
+Score is: 37.766273
+
+Doc is: Golden Earring
+Score is: 37.766273
+
+Doc is: Rickenbacker
+Score is: 37.493008
+
+Doc is: Rickenbacker
+Score is: 37.493008
+
+Incorrect; line was: George Martin and result was: Fifth Beatle
+
+Query is: early in they career , +Mark +Twain \& +Bret +Harte write piece for this +California city 's +Chronicle
+Incorrect; line was: San Francisco and result was: 
+
+Query is: large specimen of this marsupial can leap over barrier +6 foot high
+Doc is: Borhyaenidae
+Score is: 29.415413
+
+Doc is: Borhyaenidae
+Score is: 29.415413
+
+Doc is: Long jump
+Score is: 25.369795
+
+Doc is: Long jump
+Score is: 25.369795
+
+Doc is: Thames Barrier
+Score is: 25.139223
+
+Doc is: Thames Barrier
+Score is: 25.139223
+
+Doc is: Yungavolucris
+Score is: 24.523888
+
+Doc is: Yungavolucris
+Score is: 24.523888
+
+Doc is: Kangaroo
+Score is: 24.18419
+
+Doc is: Kangaroo
+Score is: 24.18419
+
+Doc is: Stejneger's beaked whale
+Score is: 24.130657
+
+Doc is: Stejneger's beaked whale
+Score is: 24.130657
+
+Doc is: Pseudunela cornuta
+Score is: 23.884823
+
+Doc is: Pseudunela cornuta
+Score is: 23.884823
+
+Doc is: Penny-farthing
+Score is: 23.625246
+
+Doc is: Penny-farthing
+Score is: 23.625246
+
+Doc is: Big Platte Lake
+Score is: 23.277412
+
+Doc is: Big Platte Lake
+Score is: 23.277412
+
+Doc is: Tammar wallaby
+Score is: 23.237923
+
+Doc is: Tammar wallaby
+Score is: 23.237923
+
+Incorrect; line was: Kangaroo and result was: Borhyaenidae
+
+Query is: because it be cure \& store in brine , this crumbly white cheese make from sheep 's milk be often refer to as pickle cheese
+Doc is: Feta
+Score is: 89.51841
+
+Doc is: Feta
+Score is: 89.51841
+
+Doc is: Pecorino
+Score is: 76.61193
+
+Doc is: Pecorino
+Score is: 76.61193
+
+Doc is: Caerphilly cheese
+Score is: 73.25689
+
+Doc is: Caerphilly cheese
+Score is: 73.25689
+
+Doc is: Norwegian cuisine
+Score is: 73.066605
+
+Doc is: Norwegian cuisine
+Score is: 73.066605
+
+Doc is: Quark (dairy product)
+Score is: 70.07074
+
+Doc is: Quark (dairy product)
+Score is: 70.07074
+
+Doc is: Head cheese
+Score is: 69.25008
+
+Doc is: Head cheese
+Score is: 69.25008
+
+Doc is: Wensleydale cheese
+Score is: 69.07074
+
+Doc is: Wensleydale cheese
+Score is: 69.07074
+
+Doc is: Ricotta
+Score is: 68.00792
+
+Doc is: Ricotta
+Score is: 68.00792
+
+Doc is: Mozzarella
+Score is: 67.19545
+
+Doc is: Mozzarella
+Score is: 67.19545
+
+Doc is: List of cheeses
+Score is: 65.77367
+
+Doc is: List of cheeses
+Score is: 65.77367
+Match: Feta
+
+Query is: +1927 \!
+Doc is: Marcel Azzola
+Score is: 12.744001
+
+Doc is: Marcel Azzola
+Score is: 12.744001
+
+Doc is: FK Radnički Obrenovac
+Score is: 12.161627
+
+Doc is: FK Radnički Obrenovac
+Score is: 12.161627
+
+Doc is: Dündar Aliosman
+Score is: 11.886162
+
+Doc is: Dündar Aliosman
+Score is: 11.886162
+
+Doc is: Sergio Tofano
+Score is: 11.854929
+
+Doc is: Sergio Tofano
+Score is: 11.854929
+
+Doc is: Rover (song)
+Score is: 11.152739
+
+Doc is: Rover (song)
+Score is: 11.152739
+
+Doc is: Emily McPherson College of Domestic Economy
+Score is: 10.617125
+
+Doc is: Emily McPherson College of Domestic Economy
+Score is: 10.617125
+
+Doc is: Stinking badges
+Score is: 10.417721
+
+Doc is: Stinking badges
+Score is: 10.417721
+
+Doc is: West Virginia Day
+Score is: 10.391829
+
+Doc is: West Virginia Day
+Score is: 10.391829
+
+Doc is: Frances Upton
+Score is: 10.235787
+
+Doc is: Frances Upton
+Score is: 10.235787
+
+Doc is: Chubby Parker
+Score is: 10.19603
+
+Doc is: Chubby Parker
+Score is: 10.19603
+
+Query is: +1927 \! +Gene +Tunney take a long count in the squared circle but rise to defeat this \" +Manassa +Mauler \" \!
+Doc is: Jack Dempsey
+Score is: 56.42044
+
+Doc is: Jack Dempsey
+Score is: 56.42044
+
+Query is: +1927 \! +Gene +Tunney take a long count in the squared circle but rise to defeat this \" +Manassa +Mauler \" \! +Howzabout that \!Match: Jack Dempsey
+
+Query is: italian for \" leader \" , it be especially apply to +Benito +Mussolini
+Doc is: Duce
+Score is: 54.20971
+
+Doc is: Duce
+Score is: 54.20971
+
+Doc is: Alessandra Mussolini
+Score is: 44.995277
+
+Doc is: Alessandra Mussolini
+Score is: 44.995277
+
+Doc is: Romano Mussolini
+Score is: 43.55066
+
+Doc is: Romano Mussolini
+Score is: 43.55066
+
+Doc is: Esercito Nazionale Repubblicano
+Score is: 43.42943
+
+Doc is: Esercito Nazionale Repubblicano
+Score is: 43.42943
+
+Doc is: Fascism in Europe
+Score is: 42.93517
+
+Doc is: Fascism in Europe
+Score is: 42.93517
+
+Doc is: Fascist and anti-Fascist violence in Italy (1919–26)
+Score is: 42.32393
+
+Doc is: Fascist and anti-Fascist violence in Italy (1919–26)
+Score is: 42.32393
+
+Doc is: Predappio
+Score is: 39.602364
+
+Doc is: Predappio
+Score is: 39.602364
+
+Doc is: Foreign relations of Italy
+Score is: 39.574295
+
+Doc is: Foreign relations of Italy
+Score is: 39.574295
+
+Doc is: Clara Petacci
+Score is: 39.37056
+
+Doc is: Clara Petacci
+Score is: 39.37056
+
+Doc is: Luigi Barzini, Jr.
+Score is: 39.28305
+
+Doc is: Luigi Barzini, Jr.
+Score is: 39.28305
+Match: Duce
+
+Query is: the +Kalamazoo +Institute of +Arts
+Doc is: Mei-Ann Chen
+Score is: 11.971967
+
+Doc is: Mei-Ann Chen
+Score is: 11.971967
+
+Doc is: Grand Valley State University
+Score is: 8.158982
+
+Doc is: Grand Valley State University
+Score is: 8.158982
+
+Doc is: Hildegard of Bingen
+Score is: 7.0367794
+
+Doc is: Hildegard of Bingen
+Score is: 7.0367794
+
+Doc is: College of William & Mary
+Score is: 6.7036753
+
+Doc is: College of William & Mary
+Score is: 6.7036753
+
+Doc is: Lansing, Michigan
+Score is: 6.4605284
+
+Doc is: Lansing, Michigan
+Score is: 6.4605284
+
+Doc is: Michigan
+Score is: 4.8374343
+
+Doc is: Michigan
+Score is: 4.8374343
+
+Doc is: Malcolm X
+Score is: 4.7061806
+
+Doc is: Malcolm X
+Score is: 4.7061806
+
+Doc is: John C. Breckinridge
+Score is: 4.6305194
+
+Doc is: John C. Breckinridge
+Score is: 4.6305194
+
+Incorrect; line was: Michigan and result was: Mei-Ann Chen
+
+Query is: the +Sun +Valley +Center for the +Arts
+Doc is: Anni Rossi
+Score is: 21.164825
+
+Doc is: Anni Rossi
+Score is: 21.164825
+
+Doc is: William Dean Singleton
+Score is: 19.880901
+
+Doc is: William Dean Singleton
+Score is: 19.880901
+
+Doc is: University of Redlands
+Score is: 17.95766
+
+Doc is: University of Redlands
+Score is: 17.95766
+
+Doc is: Northern Arizona University
+Score is: 17.707903
+
+Doc is: Northern Arizona University
+Score is: 17.707903
+
+Doc is: Roddy McDowall
+Score is: 16.502314
+
+Doc is: Roddy McDowall
+Score is: 16.502314
+
+Doc is: Inland Empire
+Score is: 16.335611
+
+Doc is: Inland Empire
+Score is: 16.335611
+
+Doc is: Roanoke, Virginia
+Score is: 16.233727
+
+Doc is: Roanoke, Virginia
+Score is: 16.233727
+
+Doc is: Daryl F. Mallett
+Score is: 16.212015
+
+Doc is: Daryl F. Mallett
+Score is: 16.212015
+
+Doc is: WET (company)
+Score is: 16.107365
+
+Doc is: WET (company)
+Score is: 16.107365
+
+Doc is: Stanford University
+Score is: 15.809635
+
+Doc is: Stanford University
+Score is: 15.809635
+
+Incorrect; line was: Idaho and result was: Anni Rossi
+
+Query is: you can not mention this shortstop without mention he double \- play associate +Evers \& +Chance
+Doc is: Joe Tinker
+Score is: 40.577477
+
+Doc is: Joe Tinker
+Score is: 40.577477
+
+Doc is: Hughie Jennings
+Score is: 32.89456
+
+Doc is: Hughie Jennings
+Score is: 32.89456
+
+Doc is: Chicago Cubs
+Score is: 26.038952
+
+Doc is: Chicago Cubs
+Score is: 26.038952
+Match: Joe Tinker
+
+Query is: in +1840 +Horace +Greeley begin publish \" the log cabin \" , a weekly campaign paper in support of this +Whig candidate
+Doc is: Horace Greeley
+Score is: 80.71599
+
+Doc is: Horace Greeley
+Score is: 80.71599
+
+Doc is: William Lyon Mackenzie
+Score is: 37.59677
+
+Doc is: William Lyon Mackenzie
+Score is: 37.59677
+
+Doc is: Kansas–Nebraska Act
+Score is: 35.267876
+
+Doc is: Kansas–Nebraska Act
+Score is: 35.267876
+
+Doc is: Charles Sumner
+Score is: 28.908554
+
+Doc is: Charles Sumner
+Score is: 28.908554
+
+Doc is: Jefferson Davis
+Score is: 28.63603
+
+Doc is: Jefferson Davis
+Score is: 28.63603
+
+Incorrect; line was: William Henry Harrison and result was: Horace Greeley
+
+Query is: +Pierre +Cauchon , +Bishop of +Beauvais , preside over the trial of this woman who go up in smoke may +30 , +1431
+Doc is: Joan of Arc
+Score is: 47.762833
+
+Doc is: Joan of Arc
+Score is: 47.762833
+Match: Joan of Arc
+
+Query is: this +Wisconsin city claim to have build the +USA 's only granite dome
+Doc is: Frank Zeidler
+Score is: 31.171497
+
+Doc is: Frank Zeidler
+Score is: 31.171497
+
+Doc is: Madison, Wisconsin
+Score is: 29.674332
+
+Doc is: Madison, Wisconsin
+Score is: 29.674332
+
+Doc is: Government of Milwaukee
+Score is: 28.333286
+
+Doc is: Government of Milwaukee
+Score is: 28.333286
+
+Doc is: Popular Front (Spain)
+Score is: 27.51198
+
+Doc is: Popular Front (Spain)
+Score is: 27.51198
+
+Doc is: Wisconsin
+Score is: 26.855282
+
+Doc is: Wisconsin
+Score is: 26.855282
+
+Doc is: Norbert of Xanten
+Score is: 24.574139
+
+Doc is: Norbert of Xanten
+Score is: 24.574139
+
+Doc is: Socialist Party USA
+Score is: 24.077333
+
+Doc is: Socialist Party USA
+Score is: 24.077333
+
+Doc is: Vaibhāṣika
+Score is: 23.784786
+
+Doc is: Vaibhāṣika
+Score is: 23.784786
+
+Doc is: Lawrence Eagleburger
+Score is: 23.523659
+
+Doc is: Lawrence Eagleburger
+Score is: 23.523659
+
+Doc is: Duluth, Minnesota
+Score is: 23.521603
+
+Doc is: Duluth, Minnesota
+Score is: 23.521603
+
+Incorrect; line was: Madison and result was: Frank Zeidler
+
+Query is: this +Georgia paper be know as the +AJC for short
+Doc is: The Atlanta Journal-Constitution
+Score is: 39.51739
+
+Doc is: The Atlanta Journal-Constitution
+Score is: 39.51739
+
+Doc is: William C. Roberts
+Score is: 20.631367
+
+Doc is: William C. Roberts
+Score is: 20.631367
+Match: The Atlanta Journal-Constitution
+
+Query is: wooden +2 \- story veranda in this liberian capital be a architectural link to the +U.S. south
+Doc is: Jug Tavern
+Score is: 33.605755
+
+Doc is: Jug Tavern
+Score is: 33.605755
+
+Doc is: History of Liberia
+Score is: 33.589993
+
+Doc is: History of Liberia
+Score is: 33.589993
+
+Doc is: Croton North Railroad Station
+Score is: 33.401142
+
+Doc is: Croton North Railroad Station
+Score is: 33.401142
+
+Doc is: Foreign relations of Liberia
+Score is: 30.68602
+
+Doc is: Foreign relations of Liberia
+Score is: 30.68602
+
+Doc is: Armed Forces of Liberia
+Score is: 30.676804
+
+Doc is: Armed Forces of Liberia
+Score is: 30.676804
+
+Doc is: Japanese Instrument of Surrender
+Score is: 29.980614
+
+Doc is: Japanese Instrument of Surrender
+Score is: 29.980614
+
+Doc is: Liberia
+Score is: 29.478548
+
+Doc is: Liberia
+Score is: 29.478548
+
+Doc is: Snodgrass Tavern
+Score is: 29.45325
+
+Doc is: Snodgrass Tavern
+Score is: 29.45325
+
+Doc is: Corinthian order
+Score is: 28.285368
+
+Doc is: Corinthian order
+Score is: 28.285368
+
+Doc is: Bank of America Plaza (Atlanta)
+Score is: 28.229242
+
+Doc is: Bank of America Plaza (Atlanta)
+Score is: 28.229242
+
+Incorrect; line was: Monrovia and result was: Jug Tavern
+
+Query is: this +New +Orleans venue reopen +Sept. +25 , +2006
+Doc is: Louis Armstrong New Orleans International Airport
+Score is: 25.593267
+
+Doc is: Louis Armstrong New Orleans International Airport
+Score is: 25.593267
+
+Doc is: The Strokes
+Score is: 15.947176
+
+Doc is: The Strokes
+Score is: 15.947176
+
+Doc is: Shreveport Symphony Orchestra
+Score is: 15.718147
+
+Doc is: Shreveport Symphony Orchestra
+Score is: 15.718147
+
+Doc is: Andrew Young
+Score is: 14.308092
+
+Doc is: Andrew Young
+Score is: 14.308092
+
+Doc is: Mario Lanza
+Score is: 14.022695
+
+Doc is: Mario Lanza
+Score is: 14.022695
+
+Doc is: Woody Allen
+Score is: 13.010873
+
+Doc is: Woody Allen
+Score is: 13.010873
+
+Doc is: Vermont
+Score is: 10.702192
+
+Doc is: Vermont
+Score is: 10.702192
+
+Doc is: Rock and Roll Hall of Fame
+Score is: 10.42735
+
+Doc is: Rock and Roll Hall of Fame
+Score is: 10.42735
+
+Doc is: Tom Jones (singer)
+Score is: 9.977583
+
+Doc is: Tom Jones (singer)
+Score is: 9.977583
+
+Doc is: Dallas/Fort Worth International Airport
+Score is: 9.745314
+
+Doc is: Dallas/Fort Worth International Airport
+Score is: 9.745314
+
+Incorrect; line was: Mercedes-Benz Superdome|The Superdome and result was: The Strokes
+
+Query is: \" the +Hunt for +Red +October \" ; he go more comedic as +Jack +Donaghy on \" +30 rock \"
+Doc is: Alec Baldwin
+Score is: 43.056736
+
+Doc is: Alec Baldwin
+Score is: 43.056736
+Match: Alec Baldwin
+
+Query is: +Rita dove title a collection of poem \" on the bus with \" this woman
+Doc is: Nellie Y. McKay
+Score is: 34.73281
+
+Doc is: Nellie Y. McKay
+Score is: 34.73281
+
+Doc is: Louise Erdrich
+Score is: 34.07861
+
+Doc is: Louise Erdrich
+Score is: 34.07861
+
+Doc is: Silk Stalkings
+Score is: 33.521442
+
+Doc is: Silk Stalkings
+Score is: 33.521442
+
+Doc is: Rita Levi-Montalcini
+Score is: 32.11593
+
+Doc is: Rita Levi-Montalcini
+Score is: 32.11593
+
+Doc is: Rita of Cascia
+Score is: 32.112854
+
+Doc is: Rita of Cascia
+Score is: 32.112854
+
+Doc is: Working Daze
+Score is: 31.895382
+
+Doc is: Working Daze
+Score is: 31.895382
+
+Doc is: Big Brother Brasil 2
+Score is: 31.856544
+
+Doc is: Big Brother Brasil 2
+Score is: 31.856544
+
+Doc is: Mulholland Drive (film)
+Score is: 31.775661
+
+Doc is: Mulholland Drive (film)
+Score is: 31.775661
+
+Doc is: Rosa Parks
+Score is: 31.437159
+
+Doc is: Rosa Parks
+Score is: 31.437159
+
+Doc is: Rita Hayworth and Shawshank Redemption
+Score is: 31.148346
+
+Doc is: Rita Hayworth and Shawshank Redemption
+Score is: 31.148346
+
+Incorrect; line was: Rosa Parks and result was: Nellie Y. McKay
+
+Query is: \" +Patriot +Games \" ; he be have other iconic role , in space \& underground
+Doc is: Freedom Force (2002 video game)
+Score is: 40.97219
+
+Doc is: Freedom Force (2002 video game)
+Score is: 40.97219
+
+Doc is: Peter Kenny
+Score is: 33.16365
+
+Doc is: Peter Kenny
+Score is: 33.16365
+
+Doc is: Harrison Ford
+Score is: 29.630398
+
+Doc is: Harrison Ford
+Score is: 29.630398
+
+Doc is: Thora Birch
+Score is: 29.189922
+
+Doc is: Thora Birch
+Score is: 29.189922
+
+Doc is: James Earl Jones
+Score is: 28.584213
+
+Doc is: James Earl Jones
+Score is: 28.584213
+
+Doc is: Bob Costas
+Score is: 26.897512
+
+Doc is: Bob Costas
+Score is: 26.897512
+
+Doc is: Racism in early American film
+Score is: 25.782352
+
+Doc is: Racism in early American film
+Score is: 25.782352
+
+Doc is: Raiden (Metal Gear)
+Score is: 25.670134
+
+Doc is: Raiden (Metal Gear)
+Score is: 25.670134
+
+Doc is: Gayane (ballet)
+Score is: 24.881495
+
+Doc is: Gayane (ballet)
+Score is: 24.881495
+
+Doc is: Star Wars
+Score is: 23.92522
+
+Doc is: Star Wars
+Score is: 23.92522
+
+Incorrect; line was: Harrison Ford and result was: Freedom Force (2002 video game)
+
+Query is: this sacred structure date from the late +600 's a.d.
+Doc is: Tayasal (archaeological site)
+Score is: 28.175678
+
+Doc is: Tayasal (archaeological site)
+Score is: 28.175678
+
+Doc is: Altun Ha
+Score is: 27.375452
+
+Doc is: Altun Ha
+Score is: 27.375452
+
+Doc is: Izamal
+Score is: 24.796051
+
+Doc is: Izamal
+Score is: 24.796051
+
+Doc is: Uaxactun
+Score is: 20.682442
+
+Doc is: Uaxactun
+Score is: 20.682442
+
+Doc is: Manbij
+Score is: 20.413649
+
+Doc is: Manbij
+Score is: 20.413649
+
+Doc is: Nevalı Çori
+Score is: 19.979414
+
+Doc is: Nevalı Çori
+Score is: 19.979414
+
+Doc is: Fogou
+Score is: 19.843496
+
+Doc is: Fogou
+Score is: 19.843496
+
+Doc is: Anuradhapura
+Score is: 19.52133
+
+Doc is: Anuradhapura
+Score is: 19.52133
+
+Doc is: Caracol
+Score is: 18.989418
+
+Doc is: Caracol
+Score is: 18.989418
+
+Doc is: Battle for the Planet of the Apes
+Score is: 18.909874
+
+Doc is: Battle for the Planet of the Apes
+Score is: 18.909874
+
+Incorrect; line was: Dome of the Rock and result was: Tayasal (archaeological site)
+
+Query is: +1988 \: \" +Man in the +Mirror \"
+Doc is: Arthur Porges
+Score is: 24.803568
+
+Doc is: Arthur Porges
+Score is: 24.803568
+
+Doc is: Som Ranchan
+Score is: 19.788292
+
+Doc is: Som Ranchan
+Score is: 19.788292
+
+Doc is: Pauline Collins
+Score is: 19.11485
+
+Doc is: Pauline Collins
+Score is: 19.11485
+
+Doc is: Charles W. F. Dick
+Score is: 18.863821
+
+Doc is: Charles W. F. Dick
+Score is: 18.863821
+
+Doc is: The Man with the Golden Gun (film)
+Score is: 17.318142
+
+Doc is: The Man with the Golden Gun (film)
+Score is: 17.318142
+
+Doc is: Carla Tortelli
+Score is: 17.014088
+
+Doc is: Carla Tortelli
+Score is: 17.014088
+
+Doc is: Doctor Light (Arthur Light)
+Score is: 16.557047
+
+Doc is: Doctor Light (Arthur Light)
+Score is: 16.557047
+
+Doc is: Robot series (Asimov)
+Score is: 16.526552
+
+Doc is: Robot series (Asimov)
+Score is: 16.526552
+
+Doc is: John Cale
+Score is: 15.842041
+
+Doc is: John Cale
+Score is: 15.842041
+
+Doc is: Michael Nesmith
+Score is: 15.625128
+
+Doc is: Michael Nesmith
+Score is: 15.625128
+
+Incorrect; line was: Michael Jackson and result was: Arthur Porges
+
+Query is: +Matthias +Church , or +Matyas +Templom , where +Franz +Joseph be crown in +1867
+Incorrect; line was: Budapest and result was: 
+
+Query is: attend +UCLA in the '60 , he be no \" +Meathead \" , he just play one later on television
+Incorrect; line was: Rob Reiner and result was: 
+
+Query is: +Kinch , +Carter \& +LeBeau be all resident of +Stalag +13 on this tv show
+Doc is: Hogan's Heroes
+Score is: 54.390114
+
+Doc is: Hogan's Heroes
+Score is: 54.390114
+Match: Hogan's Heroes
+
+Query is: +News flash \!
+Doc is: KQEH
+Score is: 14.300994
+
+Doc is: KQEH
+Score is: 14.300994
+
+Doc is: Ralf Drecoll
+Score is: 13.619419
+
+Doc is: Ralf Drecoll
+Score is: 13.619419
+
+Doc is: Knoppix
+Score is: 13.36077
+
+Doc is: Knoppix
+Score is: 13.36077
+
+Doc is: Bad Girl (Danity Kane song)
+Score is: 12.308963
+
+Doc is: Bad Girl (Danity Kane song)
+Score is: 12.308963
+
+Doc is: EDGE Tech
+Score is: 12.236667
+
+Doc is: EDGE Tech
+Score is: 12.236667
+
+Doc is: Adobe Flash
+Score is: 11.975444
+
+Doc is: Adobe Flash
+Score is: 11.975444
+
+Doc is: Tamagotchi
+Score is: 11.73807
+
+Doc is: Tamagotchi
+Score is: 11.73807
+
+Doc is: Hindenburg disaster newsreel footage
+Score is: 11.721355
+
+Doc is: Hindenburg disaster newsreel footage
+Score is: 11.721355
+
+Doc is: Flash memory
+Score is: 11.674472
+
+Doc is: Flash memory
+Score is: 11.674472
+
+Doc is: Darrell Castle
+Score is: 11.190767
+
+Doc is: Darrell Castle
+Score is: 11.190767
+
+Query is: +News flash \! this less \- than \- yappy pappy be sixth veep to be nation 's top dog after chief take deep sleep \!
+Doc is: Change.org
+Score is: 35.964607
+
+Doc is: Change.org
+Score is: 35.964607
+
+Doc is: 2 Days & 1 Night
+Score is: 35.95428
+
+Doc is: 2 Days & 1 Night
+Score is: 35.95428
+
+Doc is: A Few Questions
+Score is: 35.928867
+
+Doc is: A Few Questions
+Score is: 35.928867
+
+Doc is: Betsy Hart
+Score is: 35.928734
+
+Doc is: Betsy Hart
+Score is: 35.928734
+
+Doc is: Fred Allen
+Score is: 35.579212
+
+Doc is: Fred Allen
+Score is: 35.579212
+
+Doc is: My Yahoo!
+Score is: 35.37224
+
+Doc is: My Yahoo!
+Score is: 35.37224
+
+Doc is: Tamagotchi
+Score is: 35.302483
+
+Doc is: Tamagotchi
+Score is: 35.302483
+
+Doc is: Li'l Abner
+Score is: 35.173714
+
+Doc is: Li'l Abner
+Score is: 35.173714
+
+Doc is: Staffordshire Bull Terrier
+Score is: 35.13409
+
+Doc is: Staffordshire Bull Terrier
+Score is: 35.13409
+
+Doc is: Santa's Little Helper
+Score is: 35.109234
+
+Doc is: Santa's Little Helper
+Score is: 35.109234
+
+Incorrect; line was: Calvin Coolidge and result was: Change.org
+
+Query is: in +2001 \: the president of the +United +States on television
+Doc is: President pro tempore of the United States Senate
+Score is: 27.287958
+
+Doc is: President pro tempore of the United States Senate
+Score is: 27.287958
+
+Doc is: Oh Yeah! Cartoons
+Score is: 26.388824
+
+Doc is: Oh Yeah! Cartoons
+Score is: 26.388824
+
+Doc is: State of the Union address
+Score is: 26.223497
+
+Doc is: State of the Union address
+Score is: 26.223497
+
+Doc is: Víctor J. Montilla
+Score is: 25.70735
+
+Doc is: Víctor J. Montilla
+Score is: 25.70735
+
+Doc is: K36DU
+Score is: 25.654037
+
+Doc is: K36DU
+Score is: 25.654037
+
+Doc is: Douglas Massey
+Score is: 25.642288
+
+Doc is: Douglas Massey
+Score is: 25.642288
+
+Doc is: National Geographic Society
+Score is: 25.58282
+
+Doc is: National Geographic Society
+Score is: 25.58282
+
+Doc is: Baywatch
+Score is: 25.500801
+
+Doc is: Baywatch
+Score is: 25.500801
+
+Doc is: Asian Charlie's Angels
+Score is: 25.313938
+
+Doc is: Asian Charlie's Angels
+Score is: 25.313938
+
+Doc is: George W. Bush's first term as President of the United States
+Score is: 25.223026
+
+Doc is: George W. Bush's first term as President of the United States
+Score is: 25.223026
+
+Incorrect; line was: Martin Sheen and result was: Oh Yeah! Cartoons
+
+Query is: +1989 \: \" +Miss you much \"
+Doc is: I Love the '80s Strikes Back
+Score is: 28.270473
+
+Doc is: I Love the '80s Strikes Back
+Score is: 28.270473
+
+Doc is: Erin Holland
+Score is: 25.312878
+
+Doc is: Erin Holland
+Score is: 25.312878
+
+Doc is: Annie (musical)
+Score is: 21.479925
+
+Doc is: Annie (musical)
+Score is: 21.479925
+
+Doc is: Betty Buckley
+Score is: 20.538483
+
+Doc is: Betty Buckley
+Score is: 20.538483
+
+Doc is: Gwendoline Ruais
+Score is: 20.421246
+
+Doc is: Gwendoline Ruais
+Score is: 20.421246
+
+Doc is: Varetta Dillard
+Score is: 20.298151
+
+Doc is: Varetta Dillard
+Score is: 20.298151
+
+Doc is: Romper Room
+Score is: 20.250185
+
+Doc is: Romper Room
+Score is: 20.250185
+
+Doc is: Distinguished Young Women
+Score is: 20.090889
+
+Doc is: Distinguished Young Women
+Score is: 20.090889
+
+Doc is: Bullet Records
+Score is: 19.830944
+
+Doc is: Bullet Records
+Score is: 19.830944
+
+Doc is: Yin Mingzhu
+Score is: 19.104694
+
+Doc is: Yin Mingzhu
+Score is: 19.104694
+
+Incorrect; line was: Janet Jackson and result was: I Love the '80s Strikes Back
+
+Query is: +1922 \: it be the end of a empire \!
+Doc is: Brazilian National Anthem
+Score is: 23.068977
+
+Doc is: Brazilian National Anthem
+Score is: 23.068977
+
+Doc is: David Croft (TV producer)
+Score is: 22.44477
+
+Doc is: David Croft (TV producer)
+Score is: 22.44477
+
+Doc is: Hibernians F.C.
+Score is: 21.768103
+
+Doc is: Hibernians F.C.
+Score is: 21.768103
+
+Doc is: Foreign relations of Italy
+Score is: 21.580963
+
+Doc is: Foreign relations of Italy
+Score is: 21.580963
+
+Doc is: North London Railway
+Score is: 21.14446
+
+Doc is: North London Railway
+Score is: 21.14446
+
+Doc is: Osman I
+Score is: 21.059761
+
+Doc is: Osman I
+Score is: 21.059761
+
+Doc is: Far Eastern Republic
+Score is: 20.931469
+
+Doc is: Far Eastern Republic
+Score is: 20.931469
+
+Doc is: International Mycological Institute
+Score is: 20.474445
+
+Doc is: International Mycological Institute
+Score is: 20.474445
+
+Doc is: Sremska Mitrovica
+Score is: 20.426163
+
+Doc is: Sremska Mitrovica
+Score is: 20.426163
+
+Doc is: 1922 Kansas State Wildcats football team
+Score is: 20.412949
+
+Doc is: 1922 Kansas State Wildcats football team
+Score is: 20.412949
+
+Query is: +1922 \: it be the end of a empire \! this empire , in fact \!
+Doc is: Brazilian National Anthem
+Score is: 38.129604
+
+Doc is: Brazilian National Anthem
+Score is: 38.129604
+
+Doc is: Osman I
+Score is: 37.26372
+
+Doc is: Osman I
+Score is: 37.26372
+
+Doc is: L-Innu Malti
+Score is: 34.009274
+
+Doc is: L-Innu Malti
+Score is: 34.009274
+
+Doc is: David Croft (TV producer)
+Score is: 32.51585
+
+Doc is: David Croft (TV producer)
+Score is: 32.51585
+
+Doc is: Kingdom of Great Britain
+Score is: 32.106934
+
+Doc is: Kingdom of Great Britain
+Score is: 32.106934
+
+Doc is: Sremska Mitrovica
+Score is: 31.086609
+
+Doc is: Sremska Mitrovica
+Score is: 31.086609
+
+Doc is: Austrian krone
+Score is: 30.963787
+
+Doc is: Austrian krone
+Score is: 30.963787
+
+Doc is: Donation of Constantine
+Score is: 30.36697
+
+Doc is: Donation of Constantine
+Score is: 30.36697
+
+Doc is: The Heavenly Vision
+Score is: 30.31754
+
+Doc is: The Heavenly Vision
+Score is: 30.31754
+
+Doc is: Foreign relations of Italy
+Score is: 30.244728
+
+Doc is: Foreign relations of Italy
+Score is: 30.244728
+
+Query is: +1922 \: it be the end of a empire \! this empire , in fact \! after +600 year , it be goodbye , this , hello , turkish +Republic \!
+Doc is: Constantinople
+Score is: 51.235104
+
+Doc is: Constantinople
+Score is: 51.235104
+
+Doc is: History of Armenia
+Score is: 48.536507
+
+Doc is: History of Armenia
+Score is: 48.536507
+
+Doc is: Cyprus dispute
+Score is: 45.122875
+
+Doc is: Cyprus dispute
+Score is: 45.122875
+
+Doc is: Beer Hall Putsch
+Score is: 43.196587
+
+Doc is: Beer Hall Putsch
+Score is: 43.196587
+
+Doc is: Mongols
+Score is: 40.704163
+
+Doc is: Mongols
+Score is: 40.704163
+
+Doc is: Slovakia
+Score is: 40.52101
+
+Doc is: Slovakia
+Score is: 40.52101
+
+Doc is: British Army
+Score is: 40.075043
+
+Doc is: British Army
+Score is: 40.075043
+
+Doc is: Rome
+Score is: 40.00356
+
+Doc is: Rome
+Score is: 40.00356
+
+Doc is: Kristian Birkeland
+Score is: 39.32957
+
+Doc is: Kristian Birkeland
+Score is: 39.32957
+
+Doc is: Refugee
+Score is: 39.3242
+
+Doc is: Refugee
+Score is: 39.3242
+
+Incorrect; line was: Ottoman Empire and result was: Constantinople
+
+Query is: crest toothpaste
+Doc is: Crest (toothpaste)
+Score is: 24.686172
+
+Doc is: Crest (toothpaste)
+Score is: 24.686172
+
+Doc is: Toothpaste
+Score is: 17.035284
+
+Doc is: Toothpaste
+Score is: 17.035284
+
+Doc is: Nyctosaurus
+Score is: 11.888122
+
+Doc is: Nyctosaurus
+Score is: 11.888122
+
+Doc is: Neural Crest
+Score is: 11.564126
+
+Doc is: Neural Crest
+Score is: 11.564126
+
+Doc is: Deep circumflex iliac artery
+Score is: 10.792746
+
+Doc is: Deep circumflex iliac artery
+Score is: 10.792746
+
+Doc is: Galea (helmet)
+Score is: 10.784148
+
+Doc is: Galea (helmet)
+Score is: 10.784148
+
+Doc is: Saint Louis Athletica
+Score is: 10.651758
+
+Doc is: Saint Louis Athletica
+Score is: 10.651758
+
+Doc is: Tokugawa clan
+Score is: 10.651399
+
+Doc is: Tokugawa clan
+Score is: 10.651399
+
+Doc is: Rosy Starling
+Score is: 10.609179
+
+Doc is: Rosy Starling
+Score is: 10.609179
+
+Doc is: Coat of arms of Leeds
+Score is: 10.511952
+
+Doc is: Coat of arms of Leeds
+Score is: 10.511952
+
+Incorrect; line was: Procter & Gamble and result was: Crest (toothpaste)
+
+Query is: in +1888 this +Chancellor tell the +Reichstag , \" we +Germans fear +God , but nothing else in the world \"
+Doc is: Wilhelm II, German Emperor
+Score is: 41.019844
+
+Doc is: Wilhelm II, German Emperor
+Score is: 41.019844
+
+Doc is: Otto von Bismarck
+Score is: 38.535515
+
+Doc is: Otto von Bismarck
+Score is: 38.535515
+
+Incorrect; line was: Otto von Bismarck|Von Bismarck and result was: Wilhelm II, German Emperor
+
+Query is: in +1787 he sign he first publish poem \" +Axiologus \" ; axio \- be from the +Greek for \" worth \"
+Incorrect; line was: William Wordsworth and result was: 
+
+Query is: not to be confuse with karma , krama be a popular accessory sell in cambodia ; the word mean \" scarf \" in this national language of +Cambodia
+Doc is: Politics of Cambodia
+Score is: 49.5915
+
+Doc is: Politics of Cambodia
+Score is: 49.5915
+
+Doc is: Khmer language
+Score is: 46.14866
+
+Doc is: Khmer language
+Score is: 46.14866
+
+Doc is: Austronesia
+Score is: 43.801067
+
+Doc is: Austronesia
+Score is: 43.801067
+
+Doc is: History of Cambodia
+Score is: 43.673283
+
+Doc is: History of Cambodia
+Score is: 43.673283
+
+Doc is: Thai language
+Score is: 43.546085
+
+Doc is: Thai language
+Score is: 43.546085
+
+Doc is: Indies
+Score is: 42.777134
+
+Doc is: Indies
+Score is: 42.777134
+
+Doc is: Baybayin
+Score is: 42.142277
+
+Doc is: Baybayin
+Score is: 42.142277
+
+Doc is: Pali
+Score is: 42.06954
+
+Doc is: Pali
+Score is: 42.06954
+
+Doc is: Telecommunications in Cambodia
+Score is: 41.65616
+
+Doc is: Telecommunications in Cambodia
+Score is: 41.65616
+
+Doc is: Khmer Rouge
+Score is: 41.427673
+
+Doc is: Khmer Rouge
+Score is: 41.427673
+
+Incorrect; line was: Khmer language and result was: Politics of Cambodia
+
+Query is: +Phnom +Penh 's notorious gridlock be circumvent by the nimble tuk \- tuk , a motorize taxi that be also know as a auto this , a similar asian conveyance .
+Doc is: Olympic Stadium (Phnom Penh)
+Score is: 63.509377
+
+Doc is: Olympic Stadium (Phnom Penh)
+Score is: 63.509377
+
+Doc is: Transport in Cambodia
+Score is: 56.616207
+
+Doc is: Transport in Cambodia
+Score is: 56.616207
+
+Doc is: Cycle rickshaw
+Score is: 50.229786
+
+Doc is: Cycle rickshaw
+Score is: 50.229786
+
+Doc is: Telecommunications in Cambodia
+Score is: 50.015015
+
+Doc is: Telecommunications in Cambodia
+Score is: 50.015015
+
+Doc is: Khmer Rouge
+Score is: 49.459606
+
+Doc is: Khmer Rouge
+Score is: 49.459606
+
+Doc is: Camko City
+Score is: 49.31366
+
+Doc is: Camko City
+Score is: 49.31366
+
+Doc is: Highways to a War
+Score is: 49.277412
+
+Doc is: Highways to a War
+Score is: 49.277412
+
+Doc is: Alan Lightman
+Score is: 48.82239
+
+Doc is: Alan Lightman
+Score is: 48.82239
+
+Doc is: History of Cambodia
+Score is: 48.20621
+
+Doc is: History of Cambodia
+Score is: 48.20621
+
+Doc is: Norodom Buppha Devi
+Score is: 48.071766
+
+Doc is: Norodom Buppha Devi
+Score is: 48.071766
+
+Incorrect; line was: Rickshaw and result was: Transport in Cambodia
+
+Query is: +1980 \: \" +Rock with you \"
+Doc is: Rocky Burnette
+Score is: 25.770916
+
+Doc is: Rocky Burnette
+Score is: 25.770916
+
+Doc is: Sheena & The Rokkets
+Score is: 24.327583
+
+Doc is: Sheena & The Rokkets
+Score is: 24.327583
+
+Doc is: Jerry Butler
+Score is: 24.05756
+
+Doc is: Jerry Butler
+Score is: 24.05756
+
+Doc is: Gypsy Grind
+Score is: 23.823973
+
+Doc is: Gypsy Grind
+Score is: 23.823973
+
+Doc is: Kim Milford
+Score is: 23.558464
+
+Doc is: Kim Milford
+Score is: 23.558464
+
+Doc is: 38 Special (band)
+Score is: 23.391441
+
+Doc is: 38 Special (band)
+Score is: 23.391441
+
+Doc is: Night (band)
+Score is: 23.192749
+
+Doc is: Night (band)
+Score is: 23.192749
+
+Doc is: Bonnie Tyler discography
+Score is: 22.985653
+
+Doc is: Bonnie Tyler discography
+Score is: 22.985653
+
+Doc is: D.E. 7th
+Score is: 22.97015
+
+Doc is: D.E. 7th
+Score is: 22.97015
+
+Doc is: Jimmy Reed
+Score is: 22.686605
+
+Doc is: Jimmy Reed
+Score is: 22.686605
+
+Incorrect; line was: Michael Jackson and result was: Rocky Burnette
+
+Query is: the +Pulitzer \- win \" the make of the +President +1960 \" cover this man 's successful presidential campaign
+Doc is: William Safire
+Score is: 42.977898
+
+Doc is: William Safire
+Score is: 42.977898
+
+Doc is: Colby College
+Score is: 38.768
+
+Doc is: Colby College
+Score is: 38.768
+
+Doc is: Orval Faubus
+Score is: 38.52629
+
+Doc is: Orval Faubus
+Score is: 38.52629
+
+Doc is: Connie Clausen
+Score is: 35.124973
+
+Doc is: Connie Clausen
+Score is: 35.124973
+
+Doc is: United Negro College Fund
+Score is: 35.096294
+
+Doc is: United Negro College Fund
+Score is: 35.096294
+
+Doc is: Sid McMath
+Score is: 35.02606
+
+Doc is: Sid McMath
+Score is: 35.02606
+
+Doc is: Bill Moyers
+Score is: 34.930943
+
+Doc is: Bill Moyers
+Score is: 34.930943
+
+Doc is: William Styron
+Score is: 34.81798
+
+Doc is: William Styron
+Score is: 34.81798
+
+Doc is: Michael P. Malone
+Score is: 33.44406
+
+Doc is: Michael P. Malone
+Score is: 33.44406
+
+Doc is: Thaddeus Stevens
+Score is: 32.047527
+
+Doc is: Thaddeus Stevens
+Score is: 32.047527
+
+Incorrect; line was: JFK|John F. Kennedy and result was: William Safire
+
+Query is: in +1843 +Isaac +Dittenhoefer become the first pres. of this jewish club whose name mean \" child of the covenant \"
+Incorrect; line was: B'nai B'rith and result was: 
+
+Query is: +Don +Knotts take over from +Norman +Fell as the resident landlord on this sitcom
+Doc is: Don Knotts
+Score is: 55.26925
+
+Doc is: Don Knotts
+Score is: 55.26925
+
+Doc is: John Ritter
+Score is: 27.890226
+
+Doc is: John Ritter
+Score is: 27.890226
+
+Incorrect; line was: Three's Company and result was: John Ritter
+
+Query is: +U.N. +Res. +242 support \" secure and recognize boundary \" for +Israel \& neighbor follow this +June +1967 war
+Incorrect; line was: The Six Day War and result was: 
+
+Query is: this blonde beauty who reprise she role as +Amanda on the new \" +Melrose +Place \" be a psychology major
+Doc is: Melrose Place
+Score is: 62.099594
+
+Doc is: Melrose Place
+Score is: 62.099594
+
+Doc is: Heather Locklear
+Score is: 51.865242
+
+Doc is: Heather Locklear
+Score is: 51.865242
+Match: Heather Locklear
+
+Query is: the name of this dish of marinate lamb , skewer \& grill , come from the +Greek for \" skewer \" \& also start with \" s \"
+Doc is: Souvlaki
+Score is: 100.59542
+
+Doc is: Souvlaki
+Score is: 100.59542
+
+Doc is: Ancient Libya
+Score is: 49.28429
+
+Doc is: Ancient Libya
+Score is: 49.28429
+
+Doc is: Şanlıurfa
+Score is: 49.239616
+
+Doc is: Şanlıurfa
+Score is: 49.239616
+
+Doc is: Cuisine of the Midwestern United States
+Score is: 48.567875
+
+Doc is: Cuisine of the Midwestern United States
+Score is: 48.567875
+
+Doc is: Diastase
+Score is: 48.25431
+
+Doc is: Diastase
+Score is: 48.25431
+
+Doc is: Parsley
+Score is: 48.01592
+
+Doc is: Parsley
+Score is: 48.01592
+
+Doc is: Cantharellus
+Score is: 47.603245
+
+Doc is: Cantharellus
+Score is: 47.603245
+
+Doc is: Zorba the Greek (film)
+Score is: 47.24113
+
+Doc is: Zorba the Greek (film)
+Score is: 47.24113
+
+Doc is: Z
+Score is: 47.141872
+
+Doc is: Z
+Score is: 47.141872
+
+Doc is: Asclepius
+Score is: 46.80398
+
+Doc is: Asclepius
+Score is: 46.80398
+Match: Souvlaki
+
+Query is: post\-it note
+Doc is: Sticky note
+Score is: 21.252686
+
+Doc is: Postit note
+Score is: 21.252686
+
+Doc is: Sticky note
+Score is: 21.252686
+
+Doc is: Postit note
+Score is: 21.252686
+
+Doc is: Broadcast Standards and Practices (US)
+Score is: 9.121566
+
+Doc is: Broadcast Standards and Practices (US)
+Score is: 9.121566
+
+Doc is: Noctis
+Score is: 7.7042704
+
+Doc is: Noctis
+Score is: 7.7042704
+
+Doc is: Seeding trial
+Score is: 7.1864176
+
+Doc is: 3M
+Score is: 7.1864176
+
+Doc is: Seeding trial
+Score is: 7.1864176
+
+Doc is: 3M
+Score is: 7.1864176
+
+Doc is: Half note
+Score is: 5.371018
+
+Doc is: Half note
+Score is: 5.371018
+
+Doc is: Whole note
+Score is: 5.3652663
+
+Doc is: Whole note
+Score is: 5.3652663
+
+Doc is: Eighth note
+Score is: 5.346726
+
+Doc is: Eighth note
+Score is: 5.346726
+
+Doc is: Quarter note
+Score is: 5.302826
+
+Doc is: Quarter note
+Score is: 5.302826
+
+Incorrect; line was: 3M and result was: Sticky note
+
+Query is: in +2010 \: as +Sherlock +Holmes on film
+Doc is: Irene Adler
+Score is: 37.267273
+
+Doc is: Irene Adler
+Score is: 37.267273
+
+Doc is: Sherlock Holmes
+Score is: 37.105846
+
+Doc is: Sherlock Holmes
+Score is: 37.105846
+
+Doc is: Jeremy Brett
+Score is: 35.960503
+
+Doc is: Jeremy Brett
+Score is: 35.960503
+
+Doc is: The Five Orange Pips
+Score is: 35.94666
+
+Doc is: The Five Orange Pips
+Score is: 35.94666
+
+Doc is: Edward Hardwicke
+Score is: 35.779053
+
+Doc is: Edward Hardwicke
+Score is: 35.779053
+
+Doc is: Basil Rathbone
+Score is: 33.61898
+
+Doc is: Basil Rathbone
+Score is: 33.61898
+
+Doc is: Dominic Keating
+Score is: 30.677862
+
+Doc is: Dominic Keating
+Score is: 30.677862
+
+Doc is: Hans Zimmer
+Score is: 28.423346
+
+Doc is: Hans Zimmer
+Score is: 28.423346
+
+Doc is: Jamyang Norbu
+Score is: 28.111454
+
+Doc is: Jamyang Norbu
+Score is: 28.111454
+
+Doc is: Gareth Thomas (actor)
+Score is: 26.634903
+
+Doc is: Gareth Thomas (actor)
+Score is: 26.634903
+
+Incorrect; line was: Robert Downey, Jr. and result was: Irene Adler
+Number of questions right: 26
